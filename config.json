@@ -1,0 +1,34 @@
+{
+  "photo_folder": "photos",
+  "output_folder": "output",
+  "default_values": {
+    "address": "Unknown",
+    "city": "Unknown",
+    "zip_code": "00000",
+    "total_building_sf": 0,
+    "sf_available": 0,
+    "monthly_asking_rent_$_sf": 0,
+    "monthly_operating_expenses": 0,
+    "monthly_asking_gross_$_sf": 0,
+    "annual_asking_gross_$_sf": 0,
+    "asking_monthly_rent": 0,
+    "asking_annual_rent": 0,
+    "rent_type": "Unknown",
+    "parking_ratio_/1,000_sf": 0,
+    "tia_($_sf_yr)": 0,
+    "total_number_of_parking_spaces": 0,
+    "building_class": "Unknown",
+    "year_built": "Unknown",
+    "notes": ""
+  },
+  "supported_formats": [".xlsx", ".pdf", ".png", ".jpg", ".jpeg"],
+  "filters": {
+    "city": ["Albuquerque", "Santa Fe", "Rio Rancho", "Los Lunas", "Belen", "Corrales", "Bernalillo", "Los Alamos"],
+    "building_class": ["A", "B", "C"],
+    "monthly_rent_min": 1000,
+    "monthly_rent_max": 5000
+  }
+}
+
+  
+  

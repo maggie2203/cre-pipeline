@@ -1,0 +1,1972 @@
+2025-01-14 15:18:01,845 - INFO - Processing file: example_survey1.xlsx
+2025-01-14 15:18:02,024 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-14 15:18:02,025 - INFO - Processing file: example_survey2.pdf
+2025-01-14 15:18:02,131 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-14 15:18:02,131 - INFO - Processing file: example_image1.png
+2025-01-14 15:18:02,529 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-14 15:18:02,530 - INFO - Standardizing column headers...
+2025-01-14 15:18:02,530 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-14 15:18:02,531 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-14 15:18:02,531 - INFO - Filled missing values with default data.
+2025-01-14 15:18:02,532 - INFO - Replacing NaN and inf values...
+2025-01-14 15:18:02,533 - INFO - Validating data before export...
+2025-01-14 15:18:02,533 - INFO - Data validation completed.
+2025-01-14 15:18:02,561 - INFO - Excel file created: consolidated_properties_20250114_151801.xlsx
+2025-01-14 15:32:31,563 - INFO - Processing file: example_survey1.xlsx
+2025-01-14 15:32:31,808 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-14 15:32:31,809 - INFO - Processing file: example_survey2.pdf
+2025-01-14 15:32:31,976 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-14 15:32:31,976 - INFO - Processing file: example_image1.png
+2025-01-14 15:32:32,723 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-14 15:32:32,724 - INFO - Standardizing column headers...
+2025-01-14 15:32:32,724 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-14 15:32:32,728 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-14 15:32:32,728 - INFO - Filled missing values with default data.
+2025-01-14 15:32:32,728 - INFO - Replacing NaN and inf values...
+2025-01-14 15:32:32,733 - INFO - Validating data before export...
+2025-01-14 15:32:32,733 - INFO - Data validation completed.
+2025-01-14 15:32:32,798 - INFO - Excel file created: output\consolidated_properties_20250114_153231.xlsx
+2025-01-15 09:05:20,922 - INFO - Starting the scheduler. Press Ctrl+C to exit.
+2025-01-15 09:06:03,124 - INFO - Starting the scheduler. Press Ctrl+C to exit.
+2025-01-15 09:21:31,004 - INFO - Starting the scheduler. Press Ctrl+C to exit.
+2025-01-15 09:22:31,032 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:22:31,374 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:22:31,374 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:22:31,486 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:22:31,486 - INFO - Processing file: example_image1.png
+2025-01-15 09:22:32,321 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:22:32,322 - INFO - Standardizing column headers...
+2025-01-15 09:22:32,322 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:22:32,325 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:22:32,325 - INFO - Filled missing values with default data.
+2025-01-15 09:22:32,325 - INFO - Replacing NaN and inf values...
+2025-01-15 09:22:32,328 - INFO - Validating data before export...
+2025-01-15 09:22:32,329 - INFO - Data validation completed.
+2025-01-15 09:22:32,397 - INFO - Excel file created: output\consolidated_properties_20250115_092231.xlsx
+2025-01-15 09:23:32,427 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:23:32,445 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:23:32,446 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:23:32,562 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:23:32,563 - INFO - Processing file: example_image1.png
+2025-01-15 09:23:32,898 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:23:32,899 - INFO - Standardizing column headers...
+2025-01-15 09:23:32,899 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:23:32,900 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:23:32,900 - INFO - Filled missing values with default data.
+2025-01-15 09:23:32,900 - INFO - Replacing NaN and inf values...
+2025-01-15 09:23:32,901 - INFO - Validating data before export...
+2025-01-15 09:23:32,901 - INFO - Data validation completed.
+2025-01-15 09:23:32,926 - INFO - Excel file created: output\consolidated_properties_20250115_092332.xlsx
+2025-01-15 09:24:32,954 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:24:32,971 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:24:32,972 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:24:33,094 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:24:33,095 - INFO - Processing file: example_image1.png
+2025-01-15 09:24:33,445 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:24:33,446 - INFO - Standardizing column headers...
+2025-01-15 09:24:33,446 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:24:33,447 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:24:33,447 - INFO - Filled missing values with default data.
+2025-01-15 09:24:33,447 - INFO - Replacing NaN and inf values...
+2025-01-15 09:24:33,448 - INFO - Validating data before export...
+2025-01-15 09:24:33,449 - INFO - Data validation completed.
+2025-01-15 09:24:33,475 - INFO - Excel file created: output\consolidated_properties_20250115_092432.xlsx
+2025-01-15 09:25:33,501 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:25:33,517 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:25:33,518 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:25:33,635 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:25:33,635 - INFO - Processing file: example_image1.png
+2025-01-15 09:25:34,006 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:25:34,006 - INFO - Standardizing column headers...
+2025-01-15 09:25:34,007 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:25:34,007 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:25:34,007 - INFO - Filled missing values with default data.
+2025-01-15 09:25:34,007 - INFO - Replacing NaN and inf values...
+2025-01-15 09:25:34,009 - INFO - Validating data before export...
+2025-01-15 09:25:34,009 - INFO - Data validation completed.
+2025-01-15 09:25:34,045 - INFO - Excel file created: output\consolidated_properties_20250115_092533.xlsx
+2025-01-15 09:26:34,072 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:26:34,090 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:26:34,091 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:26:34,275 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:26:34,275 - INFO - Processing file: example_image1.png
+2025-01-15 09:26:34,632 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:26:34,633 - INFO - Standardizing column headers...
+2025-01-15 09:26:34,633 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:26:34,633 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:26:34,634 - INFO - Filled missing values with default data.
+2025-01-15 09:26:34,634 - INFO - Replacing NaN and inf values...
+2025-01-15 09:26:34,636 - INFO - Validating data before export...
+2025-01-15 09:26:34,636 - INFO - Data validation completed.
+2025-01-15 09:26:34,665 - INFO - Excel file created: output\consolidated_properties_20250115_092634.xlsx
+2025-01-15 09:27:34,694 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:27:34,712 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:27:34,712 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:27:34,836 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:27:34,837 - INFO - Processing file: example_image1.png
+2025-01-15 09:27:35,201 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:27:35,201 - INFO - Standardizing column headers...
+2025-01-15 09:27:35,202 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:27:35,202 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:27:35,203 - INFO - Filled missing values with default data.
+2025-01-15 09:27:35,203 - INFO - Replacing NaN and inf values...
+2025-01-15 09:27:35,204 - INFO - Validating data before export...
+2025-01-15 09:27:35,204 - INFO - Data validation completed.
+2025-01-15 09:27:35,240 - INFO - Excel file created: output\consolidated_properties_20250115_092734.xlsx
+2025-01-15 09:28:35,269 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:28:35,287 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:28:35,287 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:28:35,387 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:28:35,388 - INFO - Processing file: example_image1.png
+2025-01-15 09:28:35,719 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:28:35,720 - INFO - Standardizing column headers...
+2025-01-15 09:28:35,720 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:28:35,721 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:28:35,721 - INFO - Filled missing values with default data.
+2025-01-15 09:28:35,721 - INFO - Replacing NaN and inf values...
+2025-01-15 09:28:35,722 - INFO - Validating data before export...
+2025-01-15 09:28:35,722 - INFO - Data validation completed.
+2025-01-15 09:28:35,747 - INFO - Excel file created: output\consolidated_properties_20250115_092835.xlsx
+2025-01-15 09:29:35,774 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:29:35,791 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:29:35,792 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:29:35,914 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:29:35,914 - INFO - Processing file: example_image1.png
+2025-01-15 09:29:36,269 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:29:36,269 - INFO - Standardizing column headers...
+2025-01-15 09:29:36,270 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:29:36,270 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:29:36,271 - INFO - Filled missing values with default data.
+2025-01-15 09:29:36,271 - INFO - Replacing NaN and inf values...
+2025-01-15 09:29:36,272 - INFO - Validating data before export...
+2025-01-15 09:29:36,272 - INFO - Data validation completed.
+2025-01-15 09:29:36,297 - INFO - Excel file created: output\consolidated_properties_20250115_092935.xlsx
+2025-01-15 09:30:36,322 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:30:36,365 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:30:36,366 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:30:36,519 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:30:36,520 - INFO - Processing file: example_image1.png
+2025-01-15 09:30:37,184 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:30:37,185 - INFO - Standardizing column headers...
+2025-01-15 09:30:37,185 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:30:37,186 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:30:37,186 - INFO - Filled missing values with default data.
+2025-01-15 09:30:37,186 - INFO - Replacing NaN and inf values...
+2025-01-15 09:30:37,187 - INFO - Validating data before export...
+2025-01-15 09:30:37,187 - INFO - Data validation completed.
+2025-01-15 09:30:37,238 - INFO - Excel file created: output\consolidated_properties_20250115_093036.xlsx
+2025-01-15 09:31:37,263 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:31:37,272 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:31:37,272 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:31:37,462 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:31:37,463 - INFO - Processing file: example_image1.png
+2025-01-15 09:31:37,917 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:31:37,917 - INFO - Standardizing column headers...
+2025-01-15 09:31:37,918 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:31:37,918 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:31:37,918 - INFO - Filled missing values with default data.
+2025-01-15 09:31:37,919 - INFO - Replacing NaN and inf values...
+2025-01-15 09:31:37,920 - INFO - Validating data before export...
+2025-01-15 09:31:37,921 - INFO - Data validation completed.
+2025-01-15 09:31:37,947 - INFO - Excel file created: output\consolidated_properties_20250115_093137.xlsx
+2025-01-15 09:32:37,974 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:32:37,989 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:32:37,989 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:32:38,126 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:32:38,126 - INFO - Processing file: example_image1.png
+2025-01-15 09:32:38,548 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:32:38,549 - INFO - Standardizing column headers...
+2025-01-15 09:32:38,549 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:32:38,550 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:32:38,550 - INFO - Filled missing values with default data.
+2025-01-15 09:32:38,550 - INFO - Replacing NaN and inf values...
+2025-01-15 09:32:38,552 - INFO - Validating data before export...
+2025-01-15 09:32:38,552 - INFO - Data validation completed.
+2025-01-15 09:32:38,594 - INFO - Excel file created: output\consolidated_properties_20250115_093237.xlsx
+2025-01-15 09:33:38,621 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:33:38,632 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:33:38,632 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:33:38,741 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:33:38,742 - INFO - Processing file: example_image1.png
+2025-01-15 09:33:39,187 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:33:39,187 - INFO - Standardizing column headers...
+2025-01-15 09:33:39,188 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:33:39,188 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:33:39,188 - INFO - Filled missing values with default data.
+2025-01-15 09:33:39,189 - INFO - Replacing NaN and inf values...
+2025-01-15 09:33:39,190 - INFO - Validating data before export...
+2025-01-15 09:33:39,190 - INFO - Data validation completed.
+2025-01-15 09:33:39,222 - INFO - Excel file created: output\consolidated_properties_20250115_093338.xlsx
+2025-01-15 09:34:39,251 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:34:39,270 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:34:39,271 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:34:39,398 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:34:39,399 - INFO - Processing file: example_image1.png
+2025-01-15 09:34:39,742 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:34:39,742 - INFO - Standardizing column headers...
+2025-01-15 09:34:39,742 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:34:39,743 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:34:39,743 - INFO - Filled missing values with default data.
+2025-01-15 09:34:39,744 - INFO - Replacing NaN and inf values...
+2025-01-15 09:34:39,745 - INFO - Validating data before export...
+2025-01-15 09:34:39,745 - INFO - Data validation completed.
+2025-01-15 09:34:39,776 - INFO - Excel file created: output\consolidated_properties_20250115_093439.xlsx
+2025-01-15 09:35:39,802 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:35:39,819 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:35:39,819 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:35:40,025 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:35:40,025 - INFO - Processing file: example_image1.png
+2025-01-15 09:35:40,363 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:35:40,363 - INFO - Standardizing column headers...
+2025-01-15 09:35:40,364 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:35:40,364 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:35:40,364 - INFO - Filled missing values with default data.
+2025-01-15 09:35:40,365 - INFO - Replacing NaN and inf values...
+2025-01-15 09:35:40,366 - INFO - Validating data before export...
+2025-01-15 09:35:40,366 - INFO - Data validation completed.
+2025-01-15 09:35:40,391 - INFO - Excel file created: output\consolidated_properties_20250115_093539.xlsx
+2025-01-15 09:36:40,419 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:36:40,437 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:36:40,438 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:36:40,572 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:36:40,572 - INFO - Processing file: example_image1.png
+2025-01-15 09:36:40,919 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:36:40,920 - INFO - Standardizing column headers...
+2025-01-15 09:36:40,920 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:36:40,920 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:36:40,921 - INFO - Filled missing values with default data.
+2025-01-15 09:36:40,921 - INFO - Replacing NaN and inf values...
+2025-01-15 09:36:40,922 - INFO - Validating data before export...
+2025-01-15 09:36:40,923 - INFO - Data validation completed.
+2025-01-15 09:36:40,955 - INFO - Excel file created: output\consolidated_properties_20250115_093640.xlsx
+2025-01-15 09:37:40,987 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:37:41,006 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:37:41,007 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:37:41,113 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:37:41,114 - INFO - Processing file: example_image1.png
+2025-01-15 09:37:41,471 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:37:41,471 - INFO - Standardizing column headers...
+2025-01-15 09:37:41,472 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:37:41,472 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:37:41,472 - INFO - Filled missing values with default data.
+2025-01-15 09:37:41,473 - INFO - Replacing NaN and inf values...
+2025-01-15 09:37:41,474 - INFO - Validating data before export...
+2025-01-15 09:37:41,474 - INFO - Data validation completed.
+2025-01-15 09:37:41,501 - INFO - Excel file created: output\consolidated_properties_20250115_093740.xlsx
+2025-01-15 09:38:41,531 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:38:41,548 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:38:41,549 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:38:41,678 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:38:41,678 - INFO - Processing file: example_image1.png
+2025-01-15 09:38:42,120 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:38:42,121 - INFO - Standardizing column headers...
+2025-01-15 09:38:42,121 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:38:42,122 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:38:42,122 - INFO - Filled missing values with default data.
+2025-01-15 09:38:42,122 - INFO - Replacing NaN and inf values...
+2025-01-15 09:38:42,123 - INFO - Validating data before export...
+2025-01-15 09:38:42,124 - INFO - Data validation completed.
+2025-01-15 09:38:42,149 - INFO - Excel file created: output\consolidated_properties_20250115_093841.xlsx
+2025-01-15 09:39:42,249 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:39:42,267 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:39:42,268 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:39:42,400 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:39:42,400 - INFO - Processing file: example_image1.png
+2025-01-15 09:39:42,762 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:39:42,762 - INFO - Standardizing column headers...
+2025-01-15 09:39:42,763 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:39:42,763 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:39:42,763 - INFO - Filled missing values with default data.
+2025-01-15 09:39:42,763 - INFO - Replacing NaN and inf values...
+2025-01-15 09:39:42,765 - INFO - Validating data before export...
+2025-01-15 09:39:42,765 - INFO - Data validation completed.
+2025-01-15 09:39:42,789 - INFO - Excel file created: output\consolidated_properties_20250115_093942.xlsx
+2025-01-15 09:40:42,817 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:40:42,835 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:40:42,835 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:40:42,953 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:40:42,954 - INFO - Processing file: example_image1.png
+2025-01-15 09:40:43,305 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:40:43,306 - INFO - Standardizing column headers...
+2025-01-15 09:40:43,306 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:40:43,307 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:40:43,307 - INFO - Filled missing values with default data.
+2025-01-15 09:40:43,307 - INFO - Replacing NaN and inf values...
+2025-01-15 09:40:43,308 - INFO - Validating data before export...
+2025-01-15 09:40:43,309 - INFO - Data validation completed.
+2025-01-15 09:40:43,335 - INFO - Excel file created: output\consolidated_properties_20250115_094042.xlsx
+2025-01-15 09:41:43,364 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:41:43,382 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:41:43,383 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:41:43,504 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:41:43,504 - INFO - Processing file: example_image1.png
+2025-01-15 09:41:43,869 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:41:43,869 - INFO - Standardizing column headers...
+2025-01-15 09:41:43,870 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:41:43,870 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:41:43,871 - INFO - Filled missing values with default data.
+2025-01-15 09:41:43,871 - INFO - Replacing NaN and inf values...
+2025-01-15 09:41:43,872 - INFO - Validating data before export...
+2025-01-15 09:41:43,872 - INFO - Data validation completed.
+2025-01-15 09:41:43,898 - INFO - Excel file created: output\consolidated_properties_20250115_094143.xlsx
+2025-01-15 09:42:43,925 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:42:43,936 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:42:43,936 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:42:44,054 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:42:44,054 - INFO - Processing file: example_image1.png
+2025-01-15 09:42:44,481 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:42:44,481 - INFO - Standardizing column headers...
+2025-01-15 09:42:44,482 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:42:44,482 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:42:44,482 - INFO - Filled missing values with default data.
+2025-01-15 09:42:44,482 - INFO - Replacing NaN and inf values...
+2025-01-15 09:42:44,483 - INFO - Validating data before export...
+2025-01-15 09:42:44,484 - INFO - Data validation completed.
+2025-01-15 09:42:44,515 - INFO - Excel file created: output\consolidated_properties_20250115_094243.xlsx
+2025-01-15 09:43:44,542 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:43:44,558 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:43:44,559 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:43:44,676 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:43:44,677 - INFO - Processing file: example_image1.png
+2025-01-15 09:43:45,021 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:43:45,021 - INFO - Standardizing column headers...
+2025-01-15 09:43:45,022 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:43:45,022 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:43:45,022 - INFO - Filled missing values with default data.
+2025-01-15 09:43:45,023 - INFO - Replacing NaN and inf values...
+2025-01-15 09:43:45,024 - INFO - Validating data before export...
+2025-01-15 09:43:45,024 - INFO - Data validation completed.
+2025-01-15 09:43:45,051 - INFO - Excel file created: output\consolidated_properties_20250115_094344.xlsx
+2025-01-15 09:44:45,078 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:44:45,087 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:44:45,087 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:44:45,351 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:44:45,351 - INFO - Processing file: example_image1.png
+2025-01-15 09:44:45,726 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:44:45,726 - INFO - Standardizing column headers...
+2025-01-15 09:44:45,727 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:44:45,727 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:44:45,727 - INFO - Filled missing values with default data.
+2025-01-15 09:44:45,728 - INFO - Replacing NaN and inf values...
+2025-01-15 09:44:45,730 - INFO - Validating data before export...
+2025-01-15 09:44:45,730 - INFO - Data validation completed.
+2025-01-15 09:44:45,755 - INFO - Excel file created: output\consolidated_properties_20250115_094445.xlsx
+2025-01-15 09:45:45,786 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:45:45,817 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:45:45,818 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:45:45,941 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:45:45,941 - INFO - Processing file: example_image1.png
+2025-01-15 09:45:46,590 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:45:46,590 - INFO - Standardizing column headers...
+2025-01-15 09:45:46,591 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:45:46,591 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:45:46,591 - INFO - Filled missing values with default data.
+2025-01-15 09:45:46,592 - INFO - Replacing NaN and inf values...
+2025-01-15 09:45:46,593 - INFO - Validating data before export...
+2025-01-15 09:45:46,594 - INFO - Data validation completed.
+2025-01-15 09:45:46,653 - INFO - Excel file created: output\consolidated_properties_20250115_094545.xlsx
+2025-01-15 09:46:46,711 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:46:46,728 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:46:46,729 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:46:46,876 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:46:46,877 - INFO - Processing file: example_image1.png
+2025-01-15 09:46:47,268 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:46:47,268 - INFO - Standardizing column headers...
+2025-01-15 09:46:47,269 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:46:47,269 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:46:47,270 - INFO - Filled missing values with default data.
+2025-01-15 09:46:47,270 - INFO - Replacing NaN and inf values...
+2025-01-15 09:46:47,271 - INFO - Validating data before export...
+2025-01-15 09:46:47,271 - INFO - Data validation completed.
+2025-01-15 09:46:47,302 - INFO - Excel file created: output\consolidated_properties_20250115_094646.xlsx
+2025-01-15 09:47:47,331 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:47:47,351 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:47:47,351 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:47:47,492 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:47:47,492 - INFO - Processing file: example_image1.png
+2025-01-15 09:47:47,827 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:47:47,827 - INFO - Standardizing column headers...
+2025-01-15 09:47:47,828 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:47:47,828 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:47:47,828 - INFO - Filled missing values with default data.
+2025-01-15 09:47:47,828 - INFO - Replacing NaN and inf values...
+2025-01-15 09:47:47,829 - INFO - Validating data before export...
+2025-01-15 09:47:47,830 - INFO - Data validation completed.
+2025-01-15 09:47:47,854 - INFO - Excel file created: output\consolidated_properties_20250115_094747.xlsx
+2025-01-15 09:48:47,881 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:48:47,897 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:48:47,897 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:48:48,042 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:48:48,042 - INFO - Processing file: example_image1.png
+2025-01-15 09:48:48,400 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:48:48,401 - INFO - Standardizing column headers...
+2025-01-15 09:48:48,401 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:48:48,402 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:48:48,402 - INFO - Filled missing values with default data.
+2025-01-15 09:48:48,402 - INFO - Replacing NaN and inf values...
+2025-01-15 09:48:48,404 - INFO - Validating data before export...
+2025-01-15 09:48:48,404 - INFO - Data validation completed.
+2025-01-15 09:48:48,427 - INFO - Excel file created: output\consolidated_properties_20250115_094847.xlsx
+2025-01-15 09:49:48,455 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:49:48,472 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:49:48,472 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:49:48,597 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:49:48,597 - INFO - Processing file: example_image1.png
+2025-01-15 09:49:48,962 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:49:48,963 - INFO - Standardizing column headers...
+2025-01-15 09:49:48,963 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:49:48,964 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:49:48,964 - INFO - Filled missing values with default data.
+2025-01-15 09:49:48,964 - INFO - Replacing NaN and inf values...
+2025-01-15 09:49:48,965 - INFO - Validating data before export...
+2025-01-15 09:49:48,966 - INFO - Data validation completed.
+2025-01-15 09:49:48,993 - INFO - Excel file created: output\consolidated_properties_20250115_094948.xlsx
+2025-01-15 09:50:49,021 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:50:49,040 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:50:49,041 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:50:49,158 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:50:49,158 - INFO - Processing file: example_image1.png
+2025-01-15 09:50:49,513 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:50:49,514 - INFO - Standardizing column headers...
+2025-01-15 09:50:49,514 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:50:49,515 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:50:49,515 - INFO - Filled missing values with default data.
+2025-01-15 09:50:49,515 - INFO - Replacing NaN and inf values...
+2025-01-15 09:50:49,516 - INFO - Validating data before export...
+2025-01-15 09:50:49,517 - INFO - Data validation completed.
+2025-01-15 09:50:49,542 - INFO - Excel file created: output\consolidated_properties_20250115_095049.xlsx
+2025-01-15 09:51:49,593 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:51:49,619 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:51:49,619 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:51:49,729 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:51:49,729 - INFO - Processing file: example_image1.png
+2025-01-15 09:51:50,083 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:51:50,084 - INFO - Standardizing column headers...
+2025-01-15 09:51:50,084 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:51:50,085 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:51:50,085 - INFO - Filled missing values with default data.
+2025-01-15 09:51:50,085 - INFO - Replacing NaN and inf values...
+2025-01-15 09:51:50,086 - INFO - Validating data before export...
+2025-01-15 09:51:50,087 - INFO - Data validation completed.
+2025-01-15 09:51:50,117 - INFO - Excel file created: output\consolidated_properties_20250115_095149.xlsx
+2025-01-15 09:52:50,144 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:52:50,161 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:52:50,162 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:52:50,272 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:52:50,273 - INFO - Processing file: example_image1.png
+2025-01-15 09:52:50,602 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:52:50,603 - INFO - Standardizing column headers...
+2025-01-15 09:52:50,603 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:52:50,603 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:52:50,604 - INFO - Filled missing values with default data.
+2025-01-15 09:52:50,604 - INFO - Replacing NaN and inf values...
+2025-01-15 09:52:50,605 - INFO - Validating data before export...
+2025-01-15 09:52:50,605 - INFO - Data validation completed.
+2025-01-15 09:52:50,629 - INFO - Excel file created: output\consolidated_properties_20250115_095250.xlsx
+2025-01-15 09:53:50,656 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:53:50,674 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:53:50,674 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:53:50,885 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:53:50,885 - INFO - Processing file: example_image1.png
+2025-01-15 09:53:51,238 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:53:51,238 - INFO - Standardizing column headers...
+2025-01-15 09:53:51,239 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:53:51,239 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:53:51,239 - INFO - Filled missing values with default data.
+2025-01-15 09:53:51,240 - INFO - Replacing NaN and inf values...
+2025-01-15 09:53:51,241 - INFO - Validating data before export...
+2025-01-15 09:53:51,241 - INFO - Data validation completed.
+2025-01-15 09:53:51,267 - INFO - Excel file created: output\consolidated_properties_20250115_095350.xlsx
+2025-01-15 09:54:51,295 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:54:51,303 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:54:51,303 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:54:51,439 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:54:51,439 - INFO - Processing file: example_image1.png
+2025-01-15 09:54:51,809 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:54:51,810 - INFO - Standardizing column headers...
+2025-01-15 09:54:51,810 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:54:51,811 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:54:51,811 - INFO - Filled missing values with default data.
+2025-01-15 09:54:51,811 - INFO - Replacing NaN and inf values...
+2025-01-15 09:54:51,812 - INFO - Validating data before export...
+2025-01-15 09:54:51,813 - INFO - Data validation completed.
+2025-01-15 09:54:51,837 - INFO - Excel file created: output\consolidated_properties_20250115_095451.xlsx
+2025-01-15 09:55:51,863 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:55:51,872 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:55:51,872 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:55:52,025 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:55:52,025 - INFO - Processing file: example_image1.png
+2025-01-15 09:55:52,418 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:55:52,418 - INFO - Standardizing column headers...
+2025-01-15 09:55:52,419 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:55:52,419 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:55:52,419 - INFO - Filled missing values with default data.
+2025-01-15 09:55:52,419 - INFO - Replacing NaN and inf values...
+2025-01-15 09:55:52,421 - INFO - Validating data before export...
+2025-01-15 09:55:52,421 - INFO - Data validation completed.
+2025-01-15 09:55:52,445 - INFO - Excel file created: output\consolidated_properties_20250115_095551.xlsx
+2025-01-15 09:56:52,471 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:56:52,488 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:56:52,488 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:56:52,652 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:56:52,652 - INFO - Processing file: example_image1.png
+2025-01-15 09:56:53,008 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:56:53,009 - INFO - Standardizing column headers...
+2025-01-15 09:56:53,009 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:56:53,010 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:56:53,010 - INFO - Filled missing values with default data.
+2025-01-15 09:56:53,010 - INFO - Replacing NaN and inf values...
+2025-01-15 09:56:53,011 - INFO - Validating data before export...
+2025-01-15 09:56:53,011 - INFO - Data validation completed.
+2025-01-15 09:56:53,037 - INFO - Excel file created: output\consolidated_properties_20250115_095652.xlsx
+2025-01-15 09:57:53,067 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:57:53,086 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:57:53,086 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:57:53,193 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:57:53,194 - INFO - Processing file: example_image1.png
+2025-01-15 09:57:53,567 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:57:53,568 - INFO - Standardizing column headers...
+2025-01-15 09:57:53,569 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:57:53,569 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:57:53,570 - INFO - Filled missing values with default data.
+2025-01-15 09:57:53,570 - INFO - Replacing NaN and inf values...
+2025-01-15 09:57:53,571 - INFO - Validating data before export...
+2025-01-15 09:57:53,571 - INFO - Data validation completed.
+2025-01-15 09:57:53,596 - INFO - Excel file created: output\consolidated_properties_20250115_095753.xlsx
+2025-01-15 09:58:53,663 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:58:53,675 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:58:53,675 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:58:53,947 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:58:53,947 - INFO - Processing file: example_image1.png
+2025-01-15 09:58:54,548 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:58:54,549 - INFO - Standardizing column headers...
+2025-01-15 09:58:54,549 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:58:54,550 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:58:54,550 - INFO - Filled missing values with default data.
+2025-01-15 09:58:54,550 - INFO - Replacing NaN and inf values...
+2025-01-15 09:58:54,552 - INFO - Validating data before export...
+2025-01-15 09:58:54,553 - INFO - Data validation completed.
+2025-01-15 09:58:54,593 - INFO - Excel file created: output\consolidated_properties_20250115_095853.xlsx
+2025-01-15 09:59:54,621 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 09:59:54,640 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 09:59:54,641 - INFO - Processing file: example_survey2.pdf
+2025-01-15 09:59:54,987 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 09:59:54,987 - INFO - Processing file: example_image1.png
+2025-01-15 09:59:55,548 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 09:59:55,549 - INFO - Standardizing column headers...
+2025-01-15 09:59:55,550 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 09:59:55,550 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 09:59:55,551 - INFO - Filled missing values with default data.
+2025-01-15 09:59:55,551 - INFO - Replacing NaN and inf values...
+2025-01-15 09:59:55,554 - INFO - Validating data before export...
+2025-01-15 09:59:55,555 - INFO - Data validation completed.
+2025-01-15 09:59:55,643 - INFO - Excel file created: output\consolidated_properties_20250115_095954.xlsx
+2025-01-15 10:00:55,678 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:00:55,714 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:00:55,714 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:00:56,011 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:00:56,012 - INFO - Processing file: example_image1.png
+2025-01-15 10:00:57,089 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:00:57,090 - INFO - Standardizing column headers...
+2025-01-15 10:00:57,091 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:00:57,091 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:00:57,092 - INFO - Filled missing values with default data.
+2025-01-15 10:00:57,092 - INFO - Replacing NaN and inf values...
+2025-01-15 10:00:57,094 - INFO - Validating data before export...
+2025-01-15 10:00:57,094 - INFO - Data validation completed.
+2025-01-15 10:00:57,176 - INFO - Excel file created: output\consolidated_properties_20250115_100055.xlsx
+2025-01-15 10:01:57,235 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:01:57,253 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:01:57,254 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:01:57,538 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:01:57,538 - INFO - Processing file: example_image1.png
+2025-01-15 10:01:58,114 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:01:58,115 - INFO - Standardizing column headers...
+2025-01-15 10:01:58,116 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:01:58,116 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:01:58,117 - INFO - Filled missing values with default data.
+2025-01-15 10:01:58,117 - INFO - Replacing NaN and inf values...
+2025-01-15 10:01:58,120 - INFO - Validating data before export...
+2025-01-15 10:01:58,121 - INFO - Data validation completed.
+2025-01-15 10:01:58,168 - INFO - Excel file created: output\consolidated_properties_20250115_100157.xlsx
+2025-01-15 10:02:58,194 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:02:58,212 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:02:58,212 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:02:58,735 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:02:58,735 - INFO - Processing file: example_image1.png
+2025-01-15 10:02:59,367 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:02:59,368 - INFO - Standardizing column headers...
+2025-01-15 10:02:59,368 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:02:59,369 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:02:59,369 - INFO - Filled missing values with default data.
+2025-01-15 10:02:59,370 - INFO - Replacing NaN and inf values...
+2025-01-15 10:02:59,373 - INFO - Validating data before export...
+2025-01-15 10:02:59,373 - INFO - Data validation completed.
+2025-01-15 10:02:59,432 - INFO - Excel file created: output\consolidated_properties_20250115_100258.xlsx
+2025-01-15 10:03:59,455 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:03:59,478 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:03:59,478 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:03:59,855 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:03:59,855 - INFO - Processing file: example_image1.png
+2025-01-15 10:04:00,493 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:04:00,494 - INFO - Standardizing column headers...
+2025-01-15 10:04:00,495 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:04:00,495 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:04:00,496 - INFO - Filled missing values with default data.
+2025-01-15 10:04:00,496 - INFO - Replacing NaN and inf values...
+2025-01-15 10:04:00,498 - INFO - Validating data before export...
+2025-01-15 10:04:00,499 - INFO - Data validation completed.
+2025-01-15 10:04:00,542 - INFO - Excel file created: output\consolidated_properties_20250115_100359.xlsx
+2025-01-15 10:05:00,568 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:05:00,582 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:05:00,583 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:05:00,922 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:05:00,923 - INFO - Processing file: example_image1.png
+2025-01-15 10:05:01,609 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:05:01,610 - INFO - Standardizing column headers...
+2025-01-15 10:05:01,610 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:05:01,611 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:05:01,611 - INFO - Filled missing values with default data.
+2025-01-15 10:05:01,612 - INFO - Replacing NaN and inf values...
+2025-01-15 10:05:01,614 - INFO - Validating data before export...
+2025-01-15 10:05:01,614 - INFO - Data validation completed.
+2025-01-15 10:05:01,662 - INFO - Excel file created: output\consolidated_properties_20250115_100500.xlsx
+2025-01-15 10:06:01,690 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:06:01,710 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:06:01,711 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:06:02,031 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:06:02,031 - INFO - Processing file: example_image1.png
+2025-01-15 10:06:02,675 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:06:02,676 - INFO - Standardizing column headers...
+2025-01-15 10:06:02,676 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:06:02,677 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:06:02,677 - INFO - Filled missing values with default data.
+2025-01-15 10:06:02,677 - INFO - Replacing NaN and inf values...
+2025-01-15 10:06:02,679 - INFO - Validating data before export...
+2025-01-15 10:06:02,680 - INFO - Data validation completed.
+2025-01-15 10:06:02,730 - INFO - Excel file created: output\consolidated_properties_20250115_100601.xlsx
+2025-01-15 10:07:02,755 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:07:02,773 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:07:02,773 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:07:03,144 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:07:03,145 - INFO - Processing file: example_image1.png
+2025-01-15 10:07:03,772 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:07:03,773 - INFO - Standardizing column headers...
+2025-01-15 10:07:03,773 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:07:03,774 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:07:03,774 - INFO - Filled missing values with default data.
+2025-01-15 10:07:03,775 - INFO - Replacing NaN and inf values...
+2025-01-15 10:07:03,777 - INFO - Validating data before export...
+2025-01-15 10:07:03,778 - INFO - Data validation completed.
+2025-01-15 10:07:03,841 - INFO - Excel file created: output\consolidated_properties_20250115_100702.xlsx
+2025-01-15 10:08:03,867 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:08:03,879 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:08:03,879 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:08:04,231 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:08:04,231 - INFO - Processing file: example_image1.png
+2025-01-15 10:08:04,917 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:08:04,918 - INFO - Standardizing column headers...
+2025-01-15 10:08:04,919 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:08:04,919 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:08:04,920 - INFO - Filled missing values with default data.
+2025-01-15 10:08:04,920 - INFO - Replacing NaN and inf values...
+2025-01-15 10:08:04,922 - INFO - Validating data before export...
+2025-01-15 10:08:04,922 - INFO - Data validation completed.
+2025-01-15 10:08:04,979 - INFO - Excel file created: output\consolidated_properties_20250115_100803.xlsx
+2025-01-15 10:09:05,006 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:09:05,020 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:09:05,020 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:09:05,377 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:09:05,377 - INFO - Processing file: example_image1.png
+2025-01-15 10:09:06,023 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:09:06,024 - INFO - Standardizing column headers...
+2025-01-15 10:09:06,024 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:09:06,025 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:09:06,025 - INFO - Filled missing values with default data.
+2025-01-15 10:09:06,026 - INFO - Replacing NaN and inf values...
+2025-01-15 10:09:06,029 - INFO - Validating data before export...
+2025-01-15 10:09:06,029 - INFO - Data validation completed.
+2025-01-15 10:09:06,079 - INFO - Excel file created: output\consolidated_properties_20250115_100905.xlsx
+2025-01-15 10:10:06,104 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:10:06,121 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:10:06,122 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:10:06,440 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:10:06,440 - INFO - Processing file: example_image1.png
+2025-01-15 10:10:07,130 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:10:07,131 - INFO - Standardizing column headers...
+2025-01-15 10:10:07,131 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:10:07,132 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:10:07,132 - INFO - Filled missing values with default data.
+2025-01-15 10:10:07,133 - INFO - Replacing NaN and inf values...
+2025-01-15 10:10:07,134 - INFO - Validating data before export...
+2025-01-15 10:10:07,135 - INFO - Data validation completed.
+2025-01-15 10:10:07,192 - INFO - Excel file created: output\consolidated_properties_20250115_101006.xlsx
+2025-01-15 10:11:07,219 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:11:07,241 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:11:07,242 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:11:07,584 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:11:07,585 - INFO - Processing file: example_image1.png
+2025-01-15 10:11:08,188 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:11:08,189 - INFO - Standardizing column headers...
+2025-01-15 10:11:08,190 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:11:08,190 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:11:08,190 - INFO - Filled missing values with default data.
+2025-01-15 10:11:08,191 - INFO - Replacing NaN and inf values...
+2025-01-15 10:11:08,193 - INFO - Validating data before export...
+2025-01-15 10:11:08,194 - INFO - Data validation completed.
+2025-01-15 10:11:08,239 - INFO - Excel file created: output\consolidated_properties_20250115_101107.xlsx
+2025-01-15 10:12:08,263 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:12:08,281 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:12:08,281 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:12:08,781 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:12:08,781 - INFO - Processing file: example_image1.png
+2025-01-15 10:12:09,423 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:12:09,424 - INFO - Standardizing column headers...
+2025-01-15 10:12:09,424 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:12:09,425 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:12:09,425 - INFO - Filled missing values with default data.
+2025-01-15 10:12:09,426 - INFO - Replacing NaN and inf values...
+2025-01-15 10:12:09,428 - INFO - Validating data before export...
+2025-01-15 10:12:09,428 - INFO - Data validation completed.
+2025-01-15 10:12:09,483 - INFO - Excel file created: output\consolidated_properties_20250115_101208.xlsx
+2025-01-15 10:13:09,510 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:13:09,522 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:13:09,523 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:13:09,856 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:13:09,856 - INFO - Processing file: example_image1.png
+2025-01-15 10:13:10,466 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:13:10,466 - INFO - Standardizing column headers...
+2025-01-15 10:13:10,467 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:13:10,468 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:13:10,468 - INFO - Filled missing values with default data.
+2025-01-15 10:13:10,469 - INFO - Replacing NaN and inf values...
+2025-01-15 10:13:10,471 - INFO - Validating data before export...
+2025-01-15 10:13:10,472 - INFO - Data validation completed.
+2025-01-15 10:13:10,530 - INFO - Excel file created: output\consolidated_properties_20250115_101309.xlsx
+2025-01-15 10:14:10,558 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:14:10,576 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:14:10,577 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:14:10,956 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:14:10,957 - INFO - Processing file: example_image1.png
+2025-01-15 10:14:11,533 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:14:11,534 - INFO - Standardizing column headers...
+2025-01-15 10:14:11,535 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:14:11,535 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:14:11,536 - INFO - Filled missing values with default data.
+2025-01-15 10:14:11,536 - INFO - Replacing NaN and inf values...
+2025-01-15 10:14:11,541 - INFO - Validating data before export...
+2025-01-15 10:14:11,541 - INFO - Data validation completed.
+2025-01-15 10:14:11,588 - INFO - Excel file created: output\consolidated_properties_20250115_101410.xlsx
+2025-01-15 10:15:11,618 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:15:11,636 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:15:11,636 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:15:11,950 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:15:11,951 - INFO - Processing file: example_image1.png
+2025-01-15 10:15:12,653 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:15:12,654 - INFO - Standardizing column headers...
+2025-01-15 10:15:12,655 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:15:12,656 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:15:12,656 - INFO - Filled missing values with default data.
+2025-01-15 10:15:12,657 - INFO - Replacing NaN and inf values...
+2025-01-15 10:15:12,659 - INFO - Validating data before export...
+2025-01-15 10:15:12,659 - INFO - Data validation completed.
+2025-01-15 10:15:12,746 - INFO - Excel file created: output\consolidated_properties_20250115_101511.xlsx
+2025-01-15 10:16:12,772 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:16:12,826 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:16:12,827 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:16:13,153 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:16:13,153 - INFO - Processing file: example_image1.png
+2025-01-15 10:16:14,103 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:16:14,104 - INFO - Standardizing column headers...
+2025-01-15 10:16:14,105 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:16:14,105 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:16:14,105 - INFO - Filled missing values with default data.
+2025-01-15 10:16:14,106 - INFO - Replacing NaN and inf values...
+2025-01-15 10:16:14,108 - INFO - Validating data before export...
+2025-01-15 10:16:14,108 - INFO - Data validation completed.
+2025-01-15 10:16:14,180 - INFO - Excel file created: output\consolidated_properties_20250115_101612.xlsx
+2025-01-15 10:17:14,204 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:17:14,227 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:17:14,228 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:17:14,611 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:17:14,612 - INFO - Processing file: example_image1.png
+2025-01-15 10:17:15,232 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:17:15,233 - INFO - Standardizing column headers...
+2025-01-15 10:17:15,234 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:17:15,234 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:17:15,235 - INFO - Filled missing values with default data.
+2025-01-15 10:17:15,235 - INFO - Replacing NaN and inf values...
+2025-01-15 10:17:15,237 - INFO - Validating data before export...
+2025-01-15 10:17:15,237 - INFO - Data validation completed.
+2025-01-15 10:17:15,300 - INFO - Excel file created: output\consolidated_properties_20250115_101714.xlsx
+2025-01-15 10:18:15,325 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:18:15,343 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:18:15,344 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:18:15,676 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:18:15,677 - INFO - Processing file: example_image1.png
+2025-01-15 10:18:16,315 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:18:16,316 - INFO - Standardizing column headers...
+2025-01-15 10:18:16,316 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:18:16,317 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:18:16,318 - INFO - Filled missing values with default data.
+2025-01-15 10:18:16,318 - INFO - Replacing NaN and inf values...
+2025-01-15 10:18:16,321 - INFO - Validating data before export...
+2025-01-15 10:18:16,322 - INFO - Data validation completed.
+2025-01-15 10:18:16,381 - INFO - Excel file created: output\consolidated_properties_20250115_101815.xlsx
+2025-01-15 10:19:16,415 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:19:16,436 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:19:16,437 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:19:16,782 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:19:16,783 - INFO - Processing file: example_image1.png
+2025-01-15 10:19:17,405 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:19:17,406 - INFO - Standardizing column headers...
+2025-01-15 10:19:17,407 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:19:17,407 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:19:17,408 - INFO - Filled missing values with default data.
+2025-01-15 10:19:17,408 - INFO - Replacing NaN and inf values...
+2025-01-15 10:19:17,411 - INFO - Validating data before export...
+2025-01-15 10:19:17,412 - INFO - Data validation completed.
+2025-01-15 10:19:17,470 - INFO - Excel file created: output\consolidated_properties_20250115_101916.xlsx
+2025-01-15 10:20:17,496 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:20:17,512 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:20:17,512 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:20:17,848 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:20:17,848 - INFO - Processing file: example_image1.png
+2025-01-15 10:20:18,524 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:20:18,525 - INFO - Standardizing column headers...
+2025-01-15 10:20:18,526 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:20:18,526 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:20:18,527 - INFO - Filled missing values with default data.
+2025-01-15 10:20:18,527 - INFO - Replacing NaN and inf values...
+2025-01-15 10:20:18,530 - INFO - Validating data before export...
+2025-01-15 10:20:18,531 - INFO - Data validation completed.
+2025-01-15 10:20:18,600 - INFO - Excel file created: output\consolidated_properties_20250115_102017.xlsx
+2025-01-15 10:21:18,627 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:21:18,638 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:21:18,639 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:21:19,142 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:21:19,143 - INFO - Processing file: example_image1.png
+2025-01-15 10:21:19,759 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:21:19,760 - INFO - Standardizing column headers...
+2025-01-15 10:21:19,761 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:21:19,762 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:21:19,762 - INFO - Filled missing values with default data.
+2025-01-15 10:21:19,762 - INFO - Replacing NaN and inf values...
+2025-01-15 10:21:19,767 - INFO - Validating data before export...
+2025-01-15 10:21:19,768 - INFO - Data validation completed.
+2025-01-15 10:21:19,815 - INFO - Excel file created: output\consolidated_properties_20250115_102118.xlsx
+2025-01-15 10:22:19,840 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:22:19,856 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:22:19,856 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:22:20,214 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:22:20,215 - INFO - Processing file: example_image1.png
+2025-01-15 10:22:20,879 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:22:20,880 - INFO - Standardizing column headers...
+2025-01-15 10:22:20,881 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:22:20,881 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:22:20,882 - INFO - Filled missing values with default data.
+2025-01-15 10:22:20,882 - INFO - Replacing NaN and inf values...
+2025-01-15 10:22:20,886 - INFO - Validating data before export...
+2025-01-15 10:22:20,887 - INFO - Data validation completed.
+2025-01-15 10:22:20,979 - INFO - Excel file created: output\consolidated_properties_20250115_102219.xlsx
+2025-01-15 10:23:21,004 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:23:21,020 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:23:21,020 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:23:21,267 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:23:21,268 - INFO - Processing file: example_image1.png
+2025-01-15 10:23:21,854 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:23:21,854 - INFO - Standardizing column headers...
+2025-01-15 10:23:21,855 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:23:21,855 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:23:21,856 - INFO - Filled missing values with default data.
+2025-01-15 10:23:21,856 - INFO - Replacing NaN and inf values...
+2025-01-15 10:23:21,859 - INFO - Validating data before export...
+2025-01-15 10:23:21,860 - INFO - Data validation completed.
+2025-01-15 10:23:21,955 - INFO - Excel file created: output\consolidated_properties_20250115_102321.xlsx
+2025-01-15 10:24:21,981 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:24:22,004 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:24:22,005 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:24:22,349 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:24:22,350 - INFO - Processing file: example_image1.png
+2025-01-15 10:24:22,976 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:24:22,977 - INFO - Standardizing column headers...
+2025-01-15 10:24:22,978 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:24:22,978 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:24:22,979 - INFO - Filled missing values with default data.
+2025-01-15 10:24:22,979 - INFO - Replacing NaN and inf values...
+2025-01-15 10:24:22,982 - INFO - Validating data before export...
+2025-01-15 10:24:22,983 - INFO - Data validation completed.
+2025-01-15 10:24:23,063 - INFO - Excel file created: output\consolidated_properties_20250115_102421.xlsx
+2025-01-15 10:25:23,090 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:25:23,112 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:25:23,112 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:25:23,439 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:25:23,440 - INFO - Processing file: example_image1.png
+2025-01-15 10:25:24,006 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:25:24,007 - INFO - Standardizing column headers...
+2025-01-15 10:25:24,007 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:25:24,008 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:25:24,008 - INFO - Filled missing values with default data.
+2025-01-15 10:25:24,009 - INFO - Replacing NaN and inf values...
+2025-01-15 10:25:24,011 - INFO - Validating data before export...
+2025-01-15 10:25:24,012 - INFO - Data validation completed.
+2025-01-15 10:25:24,080 - INFO - Excel file created: output\consolidated_properties_20250115_102523.xlsx
+2025-01-15 10:26:24,106 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:26:24,122 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:26:24,123 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:26:24,511 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:26:24,512 - INFO - Processing file: example_image1.png
+2025-01-15 10:26:25,118 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:26:25,119 - INFO - Standardizing column headers...
+2025-01-15 10:26:25,120 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:26:25,121 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:26:25,122 - INFO - Filled missing values with default data.
+2025-01-15 10:26:25,122 - INFO - Replacing NaN and inf values...
+2025-01-15 10:26:25,125 - INFO - Validating data before export...
+2025-01-15 10:26:25,125 - INFO - Data validation completed.
+2025-01-15 10:26:25,205 - INFO - Excel file created: output\consolidated_properties_20250115_102624.xlsx
+2025-01-15 10:27:25,230 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:27:25,253 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:27:25,253 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:27:25,563 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:27:25,564 - INFO - Processing file: example_image1.png
+2025-01-15 10:27:26,190 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:27:26,191 - INFO - Standardizing column headers...
+2025-01-15 10:27:26,192 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:27:26,192 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:27:26,193 - INFO - Filled missing values with default data.
+2025-01-15 10:27:26,193 - INFO - Replacing NaN and inf values...
+2025-01-15 10:27:26,195 - INFO - Validating data before export...
+2025-01-15 10:27:26,195 - INFO - Data validation completed.
+2025-01-15 10:27:26,293 - INFO - Excel file created: output\consolidated_properties_20250115_102725.xlsx
+2025-01-15 10:28:26,318 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:28:26,335 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:28:26,336 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:28:26,651 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:28:26,652 - INFO - Processing file: example_image1.png
+2025-01-15 10:28:27,288 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:28:27,288 - INFO - Standardizing column headers...
+2025-01-15 10:28:27,289 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:28:27,290 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:28:27,290 - INFO - Filled missing values with default data.
+2025-01-15 10:28:27,290 - INFO - Replacing NaN and inf values...
+2025-01-15 10:28:27,292 - INFO - Validating data before export...
+2025-01-15 10:28:27,292 - INFO - Data validation completed.
+2025-01-15 10:28:27,363 - INFO - Excel file created: output\consolidated_properties_20250115_102826.xlsx
+2025-01-15 10:29:27,389 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:29:27,412 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:29:27,412 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:29:27,766 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:29:27,766 - INFO - Processing file: example_image1.png
+2025-01-15 10:29:28,419 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:29:28,420 - INFO - Standardizing column headers...
+2025-01-15 10:29:28,421 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:29:28,422 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:29:28,422 - INFO - Filled missing values with default data.
+2025-01-15 10:29:28,423 - INFO - Replacing NaN and inf values...
+2025-01-15 10:29:28,426 - INFO - Validating data before export...
+2025-01-15 10:29:28,426 - INFO - Data validation completed.
+2025-01-15 10:29:28,507 - INFO - Excel file created: output\consolidated_properties_20250115_102927.xlsx
+2025-01-15 10:30:28,532 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:30:28,556 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:30:28,557 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:30:29,098 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:30:29,099 - INFO - Processing file: example_image1.png
+2025-01-15 10:30:29,744 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:30:29,745 - INFO - Standardizing column headers...
+2025-01-15 10:30:29,746 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:30:29,746 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:30:29,747 - INFO - Filled missing values with default data.
+2025-01-15 10:30:29,747 - INFO - Replacing NaN and inf values...
+2025-01-15 10:30:29,749 - INFO - Validating data before export...
+2025-01-15 10:30:29,749 - INFO - Data validation completed.
+2025-01-15 10:30:29,828 - INFO - Excel file created: output\consolidated_properties_20250115_103028.xlsx
+2025-01-15 10:31:29,855 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:31:29,906 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:31:29,906 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:31:30,293 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:31:30,293 - INFO - Processing file: example_image1.png
+2025-01-15 10:31:31,254 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:31:31,255 - INFO - Standardizing column headers...
+2025-01-15 10:31:31,256 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:31:31,256 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:31:31,257 - INFO - Filled missing values with default data.
+2025-01-15 10:31:31,257 - INFO - Replacing NaN and inf values...
+2025-01-15 10:31:31,260 - INFO - Validating data before export...
+2025-01-15 10:31:31,260 - INFO - Data validation completed.
+2025-01-15 10:31:31,351 - INFO - Excel file created: output\consolidated_properties_20250115_103129.xlsx
+2025-01-15 10:32:31,377 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:32:31,395 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:32:31,395 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:32:31,731 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:32:31,732 - INFO - Processing file: example_image1.png
+2025-01-15 10:32:32,331 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:32:32,332 - INFO - Standardizing column headers...
+2025-01-15 10:32:32,332 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:32:32,333 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:32:32,334 - INFO - Filled missing values with default data.
+2025-01-15 10:32:32,334 - INFO - Replacing NaN and inf values...
+2025-01-15 10:32:32,336 - INFO - Validating data before export...
+2025-01-15 10:32:32,337 - INFO - Data validation completed.
+2025-01-15 10:32:32,410 - INFO - Excel file created: output\consolidated_properties_20250115_103231.xlsx
+2025-01-15 10:33:32,493 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:33:32,510 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:33:32,511 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:33:32,876 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:33:32,876 - INFO - Processing file: example_image1.png
+2025-01-15 10:33:33,464 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:33:33,464 - INFO - Standardizing column headers...
+2025-01-15 10:33:33,465 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:33:33,466 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:33:33,466 - INFO - Filled missing values with default data.
+2025-01-15 10:33:33,467 - INFO - Replacing NaN and inf values...
+2025-01-15 10:33:33,469 - INFO - Validating data before export...
+2025-01-15 10:33:33,469 - INFO - Data validation completed.
+2025-01-15 10:33:33,515 - INFO - Excel file created: output\consolidated_properties_20250115_103332.xlsx
+2025-01-15 10:34:33,539 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:34:33,565 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:34:33,565 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:34:33,963 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:34:33,964 - INFO - Processing file: example_image1.png
+2025-01-15 10:34:34,648 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:34:34,649 - INFO - Standardizing column headers...
+2025-01-15 10:34:34,650 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:34:34,651 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:34:34,651 - INFO - Filled missing values with default data.
+2025-01-15 10:34:34,652 - INFO - Replacing NaN and inf values...
+2025-01-15 10:34:34,655 - INFO - Validating data before export...
+2025-01-15 10:34:34,655 - INFO - Data validation completed.
+2025-01-15 10:34:34,714 - INFO - Excel file created: output\consolidated_properties_20250115_103433.xlsx
+2025-01-15 10:35:34,741 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:35:34,760 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:35:34,761 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:35:35,032 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:35:35,033 - INFO - Processing file: example_image1.png
+2025-01-15 10:35:35,581 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:35:35,582 - INFO - Standardizing column headers...
+2025-01-15 10:35:35,583 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:35:35,583 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:35:35,583 - INFO - Filled missing values with default data.
+2025-01-15 10:35:35,584 - INFO - Replacing NaN and inf values...
+2025-01-15 10:35:35,585 - INFO - Validating data before export...
+2025-01-15 10:35:35,585 - INFO - Data validation completed.
+2025-01-15 10:35:35,617 - INFO - Excel file created: output\consolidated_properties_20250115_103534.xlsx
+2025-01-15 10:36:35,644 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:36:35,661 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:36:35,662 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:36:35,909 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:36:35,910 - INFO - Processing file: example_image1.png
+2025-01-15 10:36:36,485 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:36:36,486 - INFO - Standardizing column headers...
+2025-01-15 10:36:36,486 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:36:36,487 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:36:36,488 - INFO - Filled missing values with default data.
+2025-01-15 10:36:36,488 - INFO - Replacing NaN and inf values...
+2025-01-15 10:36:36,491 - INFO - Validating data before export...
+2025-01-15 10:36:36,491 - INFO - Data validation completed.
+2025-01-15 10:36:36,546 - INFO - Excel file created: output\consolidated_properties_20250115_103635.xlsx
+2025-01-15 10:37:36,574 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:37:36,594 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:37:36,594 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:37:36,844 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:37:36,845 - INFO - Processing file: example_image1.png
+2025-01-15 10:37:37,448 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:37:37,449 - INFO - Standardizing column headers...
+2025-01-15 10:37:37,450 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:37:37,451 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:37:37,451 - INFO - Filled missing values with default data.
+2025-01-15 10:37:37,452 - INFO - Replacing NaN and inf values...
+2025-01-15 10:37:37,455 - INFO - Validating data before export...
+2025-01-15 10:37:37,455 - INFO - Data validation completed.
+2025-01-15 10:37:37,506 - INFO - Excel file created: output\consolidated_properties_20250115_103736.xlsx
+2025-01-15 10:38:37,534 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:38:37,552 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:38:37,553 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:38:37,815 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:38:37,816 - INFO - Processing file: example_image1.png
+2025-01-15 10:38:38,369 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:38:38,370 - INFO - Standardizing column headers...
+2025-01-15 10:38:38,371 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:38:38,372 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:38:38,372 - INFO - Filled missing values with default data.
+2025-01-15 10:38:38,372 - INFO - Replacing NaN and inf values...
+2025-01-15 10:38:38,375 - INFO - Validating data before export...
+2025-01-15 10:38:38,376 - INFO - Data validation completed.
+2025-01-15 10:38:38,427 - INFO - Excel file created: output\consolidated_properties_20250115_103837.xlsx
+2025-01-15 10:39:38,570 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:39:38,588 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:39:38,588 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:39:38,869 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:39:38,870 - INFO - Processing file: example_image1.png
+2025-01-15 10:39:39,410 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:39:39,411 - INFO - Standardizing column headers...
+2025-01-15 10:39:39,412 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:39:39,412 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:39:39,413 - INFO - Filled missing values with default data.
+2025-01-15 10:39:39,413 - INFO - Replacing NaN and inf values...
+2025-01-15 10:39:39,415 - INFO - Validating data before export...
+2025-01-15 10:39:39,415 - INFO - Data validation completed.
+2025-01-15 10:39:39,458 - INFO - Excel file created: output\consolidated_properties_20250115_103938.xlsx
+2025-01-15 10:40:39,490 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:40:39,508 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:40:39,509 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:40:39,966 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:40:39,967 - INFO - Processing file: example_image1.png
+2025-01-15 10:40:40,538 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:40:40,539 - INFO - Standardizing column headers...
+2025-01-15 10:40:40,540 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:40:40,541 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:40:40,541 - INFO - Filled missing values with default data.
+2025-01-15 10:40:40,542 - INFO - Replacing NaN and inf values...
+2025-01-15 10:40:40,545 - INFO - Validating data before export...
+2025-01-15 10:40:40,545 - INFO - Data validation completed.
+2025-01-15 10:40:40,597 - INFO - Excel file created: output\consolidated_properties_20250115_104039.xlsx
+2025-01-15 10:41:40,626 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:41:40,642 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:41:40,643 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:41:40,891 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:41:40,892 - INFO - Processing file: example_image1.png
+2025-01-15 10:41:41,450 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:41:41,451 - INFO - Standardizing column headers...
+2025-01-15 10:41:41,451 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:41:41,452 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:41:41,452 - INFO - Filled missing values with default data.
+2025-01-15 10:41:41,453 - INFO - Replacing NaN and inf values...
+2025-01-15 10:41:41,455 - INFO - Validating data before export...
+2025-01-15 10:41:41,456 - INFO - Data validation completed.
+2025-01-15 10:41:41,502 - INFO - Excel file created: output\consolidated_properties_20250115_104140.xlsx
+2025-01-15 10:42:41,533 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:42:41,550 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:42:41,551 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:42:41,818 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:42:41,818 - INFO - Processing file: example_image1.png
+2025-01-15 10:42:42,403 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:42:42,404 - INFO - Standardizing column headers...
+2025-01-15 10:42:42,405 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:42:42,406 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:42:42,406 - INFO - Filled missing values with default data.
+2025-01-15 10:42:42,407 - INFO - Replacing NaN and inf values...
+2025-01-15 10:42:42,409 - INFO - Validating data before export...
+2025-01-15 10:42:42,410 - INFO - Data validation completed.
+2025-01-15 10:42:42,456 - INFO - Excel file created: output\consolidated_properties_20250115_104241.xlsx
+2025-01-15 10:43:42,485 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:43:42,504 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:43:42,504 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:43:42,781 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:43:42,782 - INFO - Processing file: example_image1.png
+2025-01-15 10:43:43,336 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:43:43,337 - INFO - Standardizing column headers...
+2025-01-15 10:43:43,338 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:43:43,339 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:43:43,339 - INFO - Filled missing values with default data.
+2025-01-15 10:43:43,340 - INFO - Replacing NaN and inf values...
+2025-01-15 10:43:43,343 - INFO - Validating data before export...
+2025-01-15 10:43:43,343 - INFO - Data validation completed.
+2025-01-15 10:43:43,397 - INFO - Excel file created: output\consolidated_properties_20250115_104342.xlsx
+2025-01-15 10:44:43,425 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:44:43,444 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:44:43,444 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:44:43,712 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:44:43,713 - INFO - Processing file: example_image1.png
+2025-01-15 10:44:44,279 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:44:44,280 - INFO - Standardizing column headers...
+2025-01-15 10:44:44,280 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:44:44,281 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:44:44,282 - INFO - Filled missing values with default data.
+2025-01-15 10:44:44,282 - INFO - Replacing NaN and inf values...
+2025-01-15 10:44:44,285 - INFO - Validating data before export...
+2025-01-15 10:44:44,285 - INFO - Data validation completed.
+2025-01-15 10:44:44,336 - INFO - Excel file created: output\consolidated_properties_20250115_104443.xlsx
+2025-01-15 10:45:44,363 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:45:44,409 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:45:44,410 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:45:44,710 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:45:44,710 - INFO - Processing file: example_image1.png
+2025-01-15 10:45:45,709 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:45:45,710 - INFO - Standardizing column headers...
+2025-01-15 10:45:45,710 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:45:45,711 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:45:45,712 - INFO - Filled missing values with default data.
+2025-01-15 10:45:45,712 - INFO - Replacing NaN and inf values...
+2025-01-15 10:45:45,715 - INFO - Validating data before export...
+2025-01-15 10:45:45,715 - INFO - Data validation completed.
+2025-01-15 10:45:45,804 - INFO - Excel file created: output\consolidated_properties_20250115_104544.xlsx
+2025-01-15 10:46:45,834 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:46:45,852 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:46:45,852 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:46:46,120 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:46:46,120 - INFO - Processing file: example_image1.png
+2025-01-15 10:46:46,685 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:46:46,686 - INFO - Standardizing column headers...
+2025-01-15 10:46:46,687 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:46:46,687 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:46:46,688 - INFO - Filled missing values with default data.
+2025-01-15 10:46:46,688 - INFO - Replacing NaN and inf values...
+2025-01-15 10:46:46,690 - INFO - Validating data before export...
+2025-01-15 10:46:46,691 - INFO - Data validation completed.
+2025-01-15 10:46:46,733 - INFO - Excel file created: output\consolidated_properties_20250115_104645.xlsx
+2025-01-15 10:47:46,761 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:47:46,768 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:47:46,768 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:47:46,884 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:47:46,885 - INFO - Processing file: example_image1.png
+2025-01-15 10:47:47,242 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:47:47,242 - INFO - Standardizing column headers...
+2025-01-15 10:47:47,243 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:47:47,243 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:47:47,243 - INFO - Filled missing values with default data.
+2025-01-15 10:47:47,244 - INFO - Replacing NaN and inf values...
+2025-01-15 10:47:47,244 - INFO - Validating data before export...
+2025-01-15 10:47:47,245 - INFO - Data validation completed.
+2025-01-15 10:47:47,269 - INFO - Excel file created: output\consolidated_properties_20250115_104746.xlsx
+2025-01-15 10:48:47,344 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:48:47,350 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:48:47,351 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:48:47,455 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:48:47,455 - INFO - Processing file: example_image1.png
+2025-01-15 10:48:47,828 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:48:47,829 - INFO - Standardizing column headers...
+2025-01-15 10:48:47,830 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:48:47,830 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:48:47,831 - INFO - Filled missing values with default data.
+2025-01-15 10:48:47,831 - INFO - Replacing NaN and inf values...
+2025-01-15 10:48:47,832 - INFO - Validating data before export...
+2025-01-15 10:48:47,832 - INFO - Data validation completed.
+2025-01-15 10:48:47,885 - INFO - Excel file created: output\consolidated_properties_20250115_104847.xlsx
+2025-01-15 10:49:47,909 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:49:47,921 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:49:47,922 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:49:48,193 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:49:48,193 - INFO - Processing file: example_image1.png
+2025-01-15 10:49:48,619 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:49:48,620 - INFO - Standardizing column headers...
+2025-01-15 10:49:48,620 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:49:48,620 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:49:48,621 - INFO - Filled missing values with default data.
+2025-01-15 10:49:48,621 - INFO - Replacing NaN and inf values...
+2025-01-15 10:49:48,622 - INFO - Validating data before export...
+2025-01-15 10:49:48,622 - INFO - Data validation completed.
+2025-01-15 10:49:48,684 - INFO - Excel file created: output\consolidated_properties_20250115_104947.xlsx
+2025-01-15 10:50:48,711 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:50:48,725 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:50:48,725 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:50:48,847 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:50:48,848 - INFO - Processing file: example_image1.png
+2025-01-15 10:50:49,263 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:50:49,263 - INFO - Standardizing column headers...
+2025-01-15 10:50:49,263 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:50:49,264 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:50:49,264 - INFO - Filled missing values with default data.
+2025-01-15 10:50:49,265 - INFO - Replacing NaN and inf values...
+2025-01-15 10:50:49,266 - INFO - Validating data before export...
+2025-01-15 10:50:49,266 - INFO - Data validation completed.
+2025-01-15 10:50:49,297 - INFO - Excel file created: output\consolidated_properties_20250115_105048.xlsx
+2025-01-15 10:51:49,368 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:51:49,380 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:51:49,381 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:51:49,497 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:51:49,497 - INFO - Processing file: example_image1.png
+2025-01-15 10:51:49,855 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:51:49,856 - INFO - Standardizing column headers...
+2025-01-15 10:51:49,856 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:51:49,856 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:51:49,857 - INFO - Filled missing values with default data.
+2025-01-15 10:51:49,857 - INFO - Replacing NaN and inf values...
+2025-01-15 10:51:49,859 - INFO - Validating data before export...
+2025-01-15 10:51:49,859 - INFO - Data validation completed.
+2025-01-15 10:51:49,889 - INFO - Excel file created: output\consolidated_properties_20250115_105149.xlsx
+2025-01-15 10:52:48,894 - INFO - Starting the scheduler. Press Ctrl+C to exit.
+2025-01-15 10:52:49,994 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:52:50,007 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:52:50,007 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:52:50,175 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:52:50,176 - INFO - Processing file: example_image1.png
+2025-01-15 10:52:50,557 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:52:50,558 - INFO - Standardizing column headers...
+2025-01-15 10:52:50,558 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:52:50,558 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:52:50,558 - INFO - Filled missing values with default data.
+2025-01-15 10:52:50,559 - INFO - Replacing NaN and inf values...
+2025-01-15 10:52:50,560 - INFO - Validating data before export...
+2025-01-15 10:52:50,560 - INFO - Data validation completed.
+2025-01-15 10:52:50,584 - INFO - Excel file created: output\consolidated_properties_20250115_105249.xlsx
+2025-01-15 10:53:50,612 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:53:50,629 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:53:50,629 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:53:50,779 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:53:50,779 - INFO - Processing file: example_image1.png
+2025-01-15 10:53:51,141 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:53:51,141 - INFO - Standardizing column headers...
+2025-01-15 10:53:51,142 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:53:51,142 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:53:51,142 - INFO - Filled missing values with default data.
+2025-01-15 10:53:51,142 - INFO - Replacing NaN and inf values...
+2025-01-15 10:53:51,143 - INFO - Validating data before export...
+2025-01-15 10:53:51,144 - INFO - Data validation completed.
+2025-01-15 10:53:51,166 - INFO - Excel file created: output\consolidated_properties_20250115_105350.xlsx
+2025-01-15 10:54:51,202 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:54:51,211 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:54:51,211 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:54:51,362 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:54:51,362 - INFO - Processing file: example_image1.png
+2025-01-15 10:54:51,740 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:54:51,741 - INFO - Standardizing column headers...
+2025-01-15 10:54:51,741 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:54:51,742 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:54:51,742 - INFO - Filled missing values with default data.
+2025-01-15 10:54:51,742 - INFO - Replacing NaN and inf values...
+2025-01-15 10:54:51,745 - INFO - Validating data before export...
+2025-01-15 10:54:51,745 - INFO - Data validation completed.
+2025-01-15 10:54:51,773 - INFO - Excel file created: output\consolidated_properties_20250115_105451.xlsx
+2025-01-15 10:55:51,801 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:55:51,815 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:55:51,815 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:55:51,935 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:55:51,936 - INFO - Processing file: example_image1.png
+2025-01-15 10:55:52,288 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:55:52,288 - INFO - Standardizing column headers...
+2025-01-15 10:55:52,288 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:55:52,289 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:55:52,289 - INFO - Filled missing values with default data.
+2025-01-15 10:55:52,289 - INFO - Replacing NaN and inf values...
+2025-01-15 10:55:52,290 - INFO - Validating data before export...
+2025-01-15 10:55:52,291 - INFO - Data validation completed.
+2025-01-15 10:55:52,325 - INFO - Excel file created: output\consolidated_properties_20250115_105551.xlsx
+2025-01-15 10:56:52,354 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:56:52,371 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:56:52,371 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:56:52,512 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:56:52,512 - INFO - Processing file: example_image1.png
+2025-01-15 10:56:52,996 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:56:52,997 - INFO - Standardizing column headers...
+2025-01-15 10:56:52,997 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:56:52,998 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:56:52,998 - INFO - Filled missing values with default data.
+2025-01-15 10:56:52,998 - INFO - Replacing NaN and inf values...
+2025-01-15 10:56:52,999 - INFO - Validating data before export...
+2025-01-15 10:56:53,000 - INFO - Data validation completed.
+2025-01-15 10:56:53,026 - INFO - Excel file created: output\consolidated_properties_20250115_105652.xlsx
+2025-01-15 10:57:53,052 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:57:53,062 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:57:53,062 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:57:53,217 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:57:53,217 - INFO - Processing file: example_image1.png
+2025-01-15 10:57:53,624 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:57:53,625 - INFO - Standardizing column headers...
+2025-01-15 10:57:53,626 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:57:53,626 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:57:53,626 - INFO - Filled missing values with default data.
+2025-01-15 10:57:53,626 - INFO - Replacing NaN and inf values...
+2025-01-15 10:57:53,628 - INFO - Validating data before export...
+2025-01-15 10:57:53,629 - INFO - Data validation completed.
+2025-01-15 10:57:53,659 - INFO - Excel file created: output\consolidated_properties_20250115_105753.xlsx
+2025-01-15 10:58:53,684 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:58:53,702 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:58:53,703 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:58:53,930 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:58:53,930 - INFO - Processing file: example_image1.png
+2025-01-15 10:58:54,312 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:58:54,312 - INFO - Standardizing column headers...
+2025-01-15 10:58:54,313 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:58:54,313 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:58:54,313 - INFO - Filled missing values with default data.
+2025-01-15 10:58:54,314 - INFO - Replacing NaN and inf values...
+2025-01-15 10:58:54,315 - INFO - Validating data before export...
+2025-01-15 10:58:54,315 - INFO - Data validation completed.
+2025-01-15 10:58:54,339 - INFO - Excel file created: output\consolidated_properties_20250115_105853.xlsx
+2025-01-15 10:59:54,366 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 10:59:54,382 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 10:59:54,383 - INFO - Processing file: example_survey2.pdf
+2025-01-15 10:59:54,486 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 10:59:54,487 - INFO - Processing file: example_image1.png
+2025-01-15 10:59:54,870 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 10:59:54,870 - INFO - Standardizing column headers...
+2025-01-15 10:59:54,871 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 10:59:54,871 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 10:59:54,872 - INFO - Filled missing values with default data.
+2025-01-15 10:59:54,872 - INFO - Replacing NaN and inf values...
+2025-01-15 10:59:54,875 - INFO - Validating data before export...
+2025-01-15 10:59:54,876 - INFO - Data validation completed.
+2025-01-15 10:59:54,918 - INFO - Excel file created: output\consolidated_properties_20250115_105954.xlsx
+2025-01-15 11:00:54,950 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:00:54,985 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:00:54,985 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:00:55,140 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:00:55,140 - INFO - Processing file: example_image1.png
+2025-01-15 11:00:56,161 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:00:56,162 - INFO - Standardizing column headers...
+2025-01-15 11:00:56,163 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:00:56,165 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:00:56,165 - INFO - Filled missing values with default data.
+2025-01-15 11:00:56,165 - INFO - Replacing NaN and inf values...
+2025-01-15 11:00:56,168 - INFO - Validating data before export...
+2025-01-15 11:00:56,168 - INFO - Data validation completed.
+2025-01-15 11:00:56,246 - INFO - Excel file created: output\consolidated_properties_20250115_110054.xlsx
+2025-01-15 11:01:56,272 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:01:56,281 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:01:56,281 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:01:56,455 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:01:56,455 - INFO - Processing file: example_image1.png
+2025-01-15 11:01:56,925 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:01:56,926 - INFO - Standardizing column headers...
+2025-01-15 11:01:56,926 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:01:56,926 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:01:56,927 - INFO - Filled missing values with default data.
+2025-01-15 11:01:56,927 - INFO - Replacing NaN and inf values...
+2025-01-15 11:01:56,928 - INFO - Validating data before export...
+2025-01-15 11:01:56,928 - INFO - Data validation completed.
+2025-01-15 11:01:56,959 - INFO - Excel file created: output\consolidated_properties_20250115_110156.xlsx
+2025-01-15 11:02:56,985 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:02:57,006 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:02:57,007 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:02:57,216 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:02:57,216 - INFO - Processing file: example_image1.png
+2025-01-15 11:02:57,656 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:02:57,657 - INFO - Standardizing column headers...
+2025-01-15 11:02:57,658 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:02:57,658 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:02:57,659 - INFO - Filled missing values with default data.
+2025-01-15 11:02:57,659 - INFO - Replacing NaN and inf values...
+2025-01-15 11:02:57,661 - INFO - Validating data before export...
+2025-01-15 11:02:57,661 - INFO - Data validation completed.
+2025-01-15 11:02:57,722 - INFO - Excel file created: output\consolidated_properties_20250115_110256.xlsx
+2025-01-15 11:03:57,749 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:03:57,766 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:03:57,766 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:03:57,889 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:03:57,889 - INFO - Processing file: example_image1.png
+2025-01-15 11:03:58,266 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:03:58,266 - INFO - Standardizing column headers...
+2025-01-15 11:03:58,267 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:03:58,267 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:03:58,268 - INFO - Filled missing values with default data.
+2025-01-15 11:03:58,268 - INFO - Replacing NaN and inf values...
+2025-01-15 11:03:58,269 - INFO - Validating data before export...
+2025-01-15 11:03:58,269 - INFO - Data validation completed.
+2025-01-15 11:03:58,324 - INFO - Excel file created: output\consolidated_properties_20250115_110357.xlsx
+2025-01-15 11:04:58,350 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:04:58,365 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:04:58,366 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:04:58,573 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:04:58,573 - INFO - Processing file: example_image1.png
+2025-01-15 11:04:58,997 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:04:58,998 - INFO - Standardizing column headers...
+2025-01-15 11:04:58,998 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:04:58,999 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:04:58,999 - INFO - Filled missing values with default data.
+2025-01-15 11:04:58,999 - INFO - Replacing NaN and inf values...
+2025-01-15 11:04:59,000 - INFO - Validating data before export...
+2025-01-15 11:04:59,000 - INFO - Data validation completed.
+2025-01-15 11:04:59,054 - INFO - Excel file created: output\consolidated_properties_20250115_110458.xlsx
+2025-01-15 11:05:59,139 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:05:59,146 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:05:59,147 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:05:59,283 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:05:59,283 - INFO - Processing file: example_image1.png
+2025-01-15 11:05:59,701 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:05:59,702 - INFO - Standardizing column headers...
+2025-01-15 11:05:59,702 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:05:59,703 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:05:59,703 - INFO - Filled missing values with default data.
+2025-01-15 11:05:59,703 - INFO - Replacing NaN and inf values...
+2025-01-15 11:05:59,704 - INFO - Validating data before export...
+2025-01-15 11:05:59,705 - INFO - Data validation completed.
+2025-01-15 11:05:59,747 - INFO - Excel file created: output\consolidated_properties_20250115_110559.xlsx
+2025-01-15 11:06:59,771 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:06:59,789 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:06:59,789 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:06:59,992 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:06:59,992 - INFO - Processing file: example_image1.png
+2025-01-15 11:07:00,397 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:07:00,397 - INFO - Standardizing column headers...
+2025-01-15 11:07:00,398 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:07:00,398 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:07:00,398 - INFO - Filled missing values with default data.
+2025-01-15 11:07:00,399 - INFO - Replacing NaN and inf values...
+2025-01-15 11:07:00,400 - INFO - Validating data before export...
+2025-01-15 11:07:00,400 - INFO - Data validation completed.
+2025-01-15 11:07:00,425 - INFO - Excel file created: output\consolidated_properties_20250115_110659.xlsx
+2025-01-15 11:08:00,450 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:08:00,468 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:08:00,469 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:08:00,673 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:08:00,674 - INFO - Processing file: example_image1.png
+2025-01-15 11:08:01,021 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:08:01,021 - INFO - Standardizing column headers...
+2025-01-15 11:08:01,022 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:08:01,022 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:08:01,022 - INFO - Filled missing values with default data.
+2025-01-15 11:08:01,022 - INFO - Replacing NaN and inf values...
+2025-01-15 11:08:01,023 - INFO - Validating data before export...
+2025-01-15 11:08:01,024 - INFO - Data validation completed.
+2025-01-15 11:08:01,055 - INFO - Excel file created: output\consolidated_properties_20250115_110800.xlsx
+2025-01-15 11:09:01,174 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:09:01,181 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:09:01,181 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:09:01,296 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:09:01,296 - INFO - Processing file: example_image1.png
+2025-01-15 11:09:01,692 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:09:01,693 - INFO - Standardizing column headers...
+2025-01-15 11:09:01,694 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:09:01,694 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:09:01,694 - INFO - Filled missing values with default data.
+2025-01-15 11:09:01,694 - INFO - Replacing NaN and inf values...
+2025-01-15 11:09:01,696 - INFO - Validating data before export...
+2025-01-15 11:09:01,697 - INFO - Data validation completed.
+2025-01-15 11:09:01,729 - INFO - Excel file created: output\consolidated_properties_20250115_110901.xlsx
+2025-01-15 11:09:47,040 - INFO - Starting the scheduler. Press Ctrl+C to exit.
+2025-01-15 11:10:01,755 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:10:01,764 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:10:01,765 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:10:01,882 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:10:01,883 - INFO - Processing file: example_image1.png
+2025-01-15 11:10:02,228 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:10:02,228 - INFO - Standardizing column headers...
+2025-01-15 11:10:02,228 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:10:02,229 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:10:02,229 - INFO - Filled missing values with default data.
+2025-01-15 11:10:02,229 - INFO - Replacing NaN and inf values...
+2025-01-15 11:10:02,230 - INFO - Validating data before export...
+2025-01-15 11:10:02,230 - INFO - Data validation completed.
+2025-01-15 11:10:02,254 - INFO - Excel file created: output\consolidated_properties_20250115_111001.xlsx
+2025-01-15 11:11:02,280 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:11:02,289 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:11:02,289 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:11:02,423 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:11:02,424 - INFO - Processing file: example_image1.png
+2025-01-15 11:11:02,820 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:11:02,821 - INFO - Standardizing column headers...
+2025-01-15 11:11:02,822 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:11:02,822 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:11:02,823 - INFO - Filled missing values with default data.
+2025-01-15 11:11:02,823 - INFO - Replacing NaN and inf values...
+2025-01-15 11:11:02,825 - INFO - Validating data before export...
+2025-01-15 11:11:02,825 - INFO - Data validation completed.
+2025-01-15 11:11:02,892 - INFO - Excel file created: output\consolidated_properties_20250115_111102.xlsx
+2025-01-15 11:12:03,014 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:12:03,024 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:12:03,024 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:12:03,142 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:12:03,143 - INFO - Processing file: example_image1.png
+2025-01-15 11:12:03,495 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:12:03,495 - INFO - Standardizing column headers...
+2025-01-15 11:12:03,496 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:12:03,496 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:12:03,496 - INFO - Filled missing values with default data.
+2025-01-15 11:12:03,497 - INFO - Replacing NaN and inf values...
+2025-01-15 11:12:03,498 - INFO - Validating data before export...
+2025-01-15 11:12:03,498 - INFO - Data validation completed.
+2025-01-15 11:12:03,527 - INFO - Excel file created: output\consolidated_properties_20250115_111203.xlsx
+2025-01-15 11:13:03,555 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:13:03,574 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:13:03,574 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:13:03,684 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:13:03,684 - INFO - Processing file: example_image1.png
+2025-01-15 11:13:04,025 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:13:04,025 - INFO - Standardizing column headers...
+2025-01-15 11:13:04,026 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:13:04,026 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:13:04,027 - INFO - Filled missing values with default data.
+2025-01-15 11:13:04,027 - INFO - Replacing NaN and inf values...
+2025-01-15 11:13:04,028 - INFO - Validating data before export...
+2025-01-15 11:13:04,028 - INFO - Data validation completed.
+2025-01-15 11:13:04,056 - INFO - Excel file created: output\consolidated_properties_20250115_111303.xlsx
+2025-01-15 11:14:04,085 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:14:04,103 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:14:04,104 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:14:04,247 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:14:04,247 - INFO - Processing file: example_image1.png
+2025-01-15 11:14:04,585 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:14:04,585 - INFO - Standardizing column headers...
+2025-01-15 11:14:04,586 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:14:04,586 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:14:04,586 - INFO - Filled missing values with default data.
+2025-01-15 11:14:04,587 - INFO - Replacing NaN and inf values...
+2025-01-15 11:14:04,588 - INFO - Validating data before export...
+2025-01-15 11:14:04,588 - INFO - Data validation completed.
+2025-01-15 11:14:04,614 - INFO - Excel file created: output\consolidated_properties_20250115_111404.xlsx
+2025-01-15 11:15:04,649 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:15:04,662 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:15:04,662 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:15:04,839 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:15:04,839 - INFO - Processing file: example_image1.png
+2025-01-15 11:15:05,224 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:15:05,225 - INFO - Standardizing column headers...
+2025-01-15 11:15:05,225 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:15:05,225 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:15:05,226 - INFO - Filled missing values with default data.
+2025-01-15 11:15:05,226 - INFO - Replacing NaN and inf values...
+2025-01-15 11:15:05,228 - INFO - Validating data before export...
+2025-01-15 11:15:05,229 - INFO - Data validation completed.
+2025-01-15 11:15:05,259 - INFO - Excel file created: output\consolidated_properties_20250115_111504.xlsx
+2025-01-15 11:16:05,287 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:16:05,330 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:16:05,331 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:16:05,469 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:16:05,470 - INFO - Processing file: example_image1.png
+2025-01-15 11:16:06,143 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:16:06,144 - INFO - Standardizing column headers...
+2025-01-15 11:16:06,144 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:16:06,145 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:16:06,145 - INFO - Filled missing values with default data.
+2025-01-15 11:16:06,145 - INFO - Replacing NaN and inf values...
+2025-01-15 11:16:06,146 - INFO - Validating data before export...
+2025-01-15 11:16:06,147 - INFO - Data validation completed.
+2025-01-15 11:16:06,206 - INFO - Excel file created: output\consolidated_properties_20250115_111605.xlsx
+2025-01-15 11:17:06,233 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:17:06,244 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:17:06,245 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:17:06,474 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:17:06,475 - INFO - Processing file: example_image1.png
+2025-01-15 11:17:06,867 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:17:06,868 - INFO - Standardizing column headers...
+2025-01-15 11:17:06,868 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:17:06,869 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:17:06,869 - INFO - Filled missing values with default data.
+2025-01-15 11:17:06,870 - INFO - Replacing NaN and inf values...
+2025-01-15 11:17:06,871 - INFO - Validating data before export...
+2025-01-15 11:17:06,871 - INFO - Data validation completed.
+2025-01-15 11:17:06,897 - INFO - Excel file created: output\consolidated_properties_20250115_111706.xlsx
+2025-01-15 11:18:06,924 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:18:06,940 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:18:06,941 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:18:07,050 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:18:07,051 - INFO - Processing file: example_image1.png
+2025-01-15 11:18:07,443 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:18:07,443 - INFO - Standardizing column headers...
+2025-01-15 11:18:07,444 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:18:07,444 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:18:07,444 - INFO - Filled missing values with default data.
+2025-01-15 11:18:07,445 - INFO - Replacing NaN and inf values...
+2025-01-15 11:18:07,446 - INFO - Validating data before export...
+2025-01-15 11:18:07,446 - INFO - Data validation completed.
+2025-01-15 11:18:07,474 - INFO - Excel file created: output\consolidated_properties_20250115_111806.xlsx
+2025-01-15 11:19:07,501 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:19:07,510 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:19:07,511 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:19:07,628 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:19:07,628 - INFO - Processing file: example_image1.png
+2025-01-15 11:19:08,110 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:19:08,110 - INFO - Standardizing column headers...
+2025-01-15 11:19:08,110 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:19:08,111 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:19:08,111 - INFO - Filled missing values with default data.
+2025-01-15 11:19:08,111 - INFO - Replacing NaN and inf values...
+2025-01-15 11:19:08,112 - INFO - Validating data before export...
+2025-01-15 11:19:08,112 - INFO - Data validation completed.
+2025-01-15 11:19:08,141 - INFO - Excel file created: output\consolidated_properties_20250115_111907.xlsx
+2025-01-15 11:20:08,276 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:20:08,291 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:20:08,292 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:20:08,425 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:20:08,425 - INFO - Processing file: example_image1.png
+2025-01-15 11:20:08,789 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:20:08,789 - INFO - Standardizing column headers...
+2025-01-15 11:20:08,790 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:20:08,790 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:20:08,790 - INFO - Filled missing values with default data.
+2025-01-15 11:20:08,790 - INFO - Replacing NaN and inf values...
+2025-01-15 11:20:08,791 - INFO - Validating data before export...
+2025-01-15 11:20:08,791 - INFO - Data validation completed.
+2025-01-15 11:20:08,814 - INFO - Excel file created: output\consolidated_properties_20250115_112008.xlsx
+2025-01-15 11:21:08,841 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:21:08,847 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:21:08,848 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:21:08,959 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:21:08,959 - INFO - Processing file: example_image1.png
+2025-01-15 11:21:09,320 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:21:09,320 - INFO - Standardizing column headers...
+2025-01-15 11:21:09,321 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:21:09,321 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:21:09,321 - INFO - Filled missing values with default data.
+2025-01-15 11:21:09,322 - INFO - Replacing NaN and inf values...
+2025-01-15 11:21:09,323 - INFO - Validating data before export...
+2025-01-15 11:21:09,323 - INFO - Data validation completed.
+2025-01-15 11:21:09,351 - INFO - Excel file created: output\consolidated_properties_20250115_112108.xlsx
+2025-01-15 11:22:09,380 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:22:09,397 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:22:09,398 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:22:09,533 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:22:09,534 - INFO - Processing file: example_image1.png
+2025-01-15 11:22:09,878 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:22:09,879 - INFO - Standardizing column headers...
+2025-01-15 11:22:09,879 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:22:09,880 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:22:09,880 - INFO - Filled missing values with default data.
+2025-01-15 11:22:09,880 - INFO - Replacing NaN and inf values...
+2025-01-15 11:22:09,882 - INFO - Validating data before export...
+2025-01-15 11:22:09,882 - INFO - Data validation completed.
+2025-01-15 11:22:09,923 - INFO - Excel file created: output\consolidated_properties_20250115_112209.xlsx
+2025-01-15 11:23:09,949 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:23:09,963 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:23:09,964 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:23:10,072 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:23:10,073 - INFO - Processing file: example_image1.png
+2025-01-15 11:23:10,422 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:23:10,422 - INFO - Standardizing column headers...
+2025-01-15 11:23:10,423 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:23:10,423 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:23:10,424 - INFO - Filled missing values with default data.
+2025-01-15 11:23:10,424 - INFO - Replacing NaN and inf values...
+2025-01-15 11:23:10,426 - INFO - Validating data before export...
+2025-01-15 11:23:10,426 - INFO - Data validation completed.
+2025-01-15 11:23:10,455 - INFO - Excel file created: output\consolidated_properties_20250115_112309.xlsx
+2025-01-15 11:24:10,484 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:24:10,490 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:24:10,491 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:24:10,592 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:24:10,593 - INFO - Processing file: example_image1.png
+2025-01-15 11:24:10,946 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:24:10,947 - INFO - Standardizing column headers...
+2025-01-15 11:24:10,948 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:24:10,948 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:24:10,948 - INFO - Filled missing values with default data.
+2025-01-15 11:24:10,948 - INFO - Replacing NaN and inf values...
+2025-01-15 11:24:10,949 - INFO - Validating data before export...
+2025-01-15 11:24:10,950 - INFO - Data validation completed.
+2025-01-15 11:24:10,978 - INFO - Excel file created: output\consolidated_properties_20250115_112410.xlsx
+2025-01-15 11:25:11,050 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:25:11,056 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:25:11,057 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:25:11,195 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:25:11,195 - INFO - Processing file: example_image1.png
+2025-01-15 11:25:11,632 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:25:11,633 - INFO - Standardizing column headers...
+2025-01-15 11:25:11,633 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:25:11,634 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:25:11,634 - INFO - Filled missing values with default data.
+2025-01-15 11:25:11,634 - INFO - Replacing NaN and inf values...
+2025-01-15 11:25:11,636 - INFO - Validating data before export...
+2025-01-15 11:25:11,636 - INFO - Data validation completed.
+2025-01-15 11:25:11,667 - INFO - Excel file created: output\consolidated_properties_20250115_112511.xlsx
+2025-01-15 11:26:11,779 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:26:11,792 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:26:11,792 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:26:11,996 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:26:11,996 - INFO - Processing file: example_image1.png
+2025-01-15 11:26:12,339 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:26:12,340 - INFO - Standardizing column headers...
+2025-01-15 11:26:12,340 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:26:12,341 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:26:12,341 - INFO - Filled missing values with default data.
+2025-01-15 11:26:12,341 - INFO - Replacing NaN and inf values...
+2025-01-15 11:26:12,342 - INFO - Validating data before export...
+2025-01-15 11:26:12,342 - INFO - Data validation completed.
+2025-01-15 11:26:12,366 - INFO - Excel file created: output\consolidated_properties_20250115_112611.xlsx
+2025-01-15 11:27:12,395 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:27:12,414 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:27:12,414 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:27:12,530 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:27:12,530 - INFO - Processing file: example_image1.png
+2025-01-15 11:27:12,900 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:27:12,901 - INFO - Standardizing column headers...
+2025-01-15 11:27:12,901 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:27:12,902 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:27:12,902 - INFO - Filled missing values with default data.
+2025-01-15 11:27:12,902 - INFO - Replacing NaN and inf values...
+2025-01-15 11:27:12,904 - INFO - Validating data before export...
+2025-01-15 11:27:12,905 - INFO - Data validation completed.
+2025-01-15 11:27:12,934 - INFO - Excel file created: output\consolidated_properties_20250115_112712.xlsx
+2025-01-15 11:28:12,964 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:28:12,982 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:28:12,983 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:28:13,105 - WARNING - Skipped invalid or empty data from: example_survey2.pdf
+2025-01-15 11:28:13,105 - INFO - Processing file: example_image1.png
+2025-01-15 11:28:13,489 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:28:13,490 - INFO - Standardizing column headers...
+2025-01-15 11:28:13,490 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19']
+2025-01-15 11:28:13,491 - WARNING - 'address' column not found. Skipping deduplication.
+2025-01-15 11:28:13,491 - INFO - Filled missing values with default data.
+2025-01-15 11:28:13,491 - INFO - Replacing NaN and inf values...
+2025-01-15 11:28:13,493 - INFO - Validating data before export...
+2025-01-15 11:28:13,493 - INFO - Data validation completed.
+2025-01-15 11:28:13,520 - INFO - Excel file created: output\consolidated_properties_20250115_112812.xlsx
+2025-01-15 11:28:33,684 - CRITICAL - Error decoding 'config.json': Expecting ':' delimiter: line 26 column 41 (char 788)
+2025-01-15 11:37:00,430 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:37:00,788 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:37:00,788 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:37:00,788 - INFO - Extracting data from PDF: example_survey2.pdf
+2025-01-15 11:37:00,929 - INFO - Successfully extracted data from: example_survey2.pdf
+2025-01-15 11:37:00,929 - INFO - Processing file: example_image1.png
+2025-01-15 11:37:01,869 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:37:01,882 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19', 'building_photo', 'address', 'property_name', 'city', 'zip_code', 'total_building_sf', 'sf_available', 'monthly_asking_rent', 'monthly_operating_expenses', 'monthly_asking_gross', 'annual_asking_gross', 'asking_monthly_rent', 'asking_annual_rent', 'rent_type', 'parking_ratio', 'tia', 'total_parking_spaces', 'building_class', 'year_built', 'notes', 'source_page']
+2025-01-15 11:37:01,887 - INFO - Deduplicated data based on the 'address' column.
+2025-01-15 11:37:01,890 - INFO - Filled missing values with default data.
+2025-01-15 11:37:01,891 - INFO - Applying filters to the data...
+2025-01-15 11:37:01,891 - CRITICAL - Critical error occurred: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Users\MargaretHawkins\Documents\cre_pipeline\process_surveys.py", line 139, in <module>
+    process_surveys(
+    ~~~~~~~~~~~~~~~^
+        file_paths=survey_files,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+        output_excel=output_excel
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\MargaretHawkins\Documents\cre_pipeline\process_surveys.py", line 118, in process_surveys
+    df = apply_filters(df, config.get("filters", {}))
+  File "C:\Users\MargaretHawkins\Documents\cre_pipeline\process_surveys.py", line 47, in apply_filters
+    df = df[df["city"].str.contains(filters["city"], case=False, na=False)]
+            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\MargaretHawkins\Documents\cre_pipeline\venv\Lib\site-packages\pandas\core\strings\accessor.py", line 137, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\MargaretHawkins\Documents\cre_pipeline\venv\Lib\site-packages\pandas\core\strings\accessor.py", line 1327, in contains
+    if regex and re.compile(pat).groups:
+                 ~~~~~~~~~~^^^^^
+  File "C:\Users\MargaretHawkins\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 289, in compile
+    return _compile(pattern, flags)
+  File "C:\Users\MargaretHawkins\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 335, in _compile
+    return _cache2[type(pattern), pattern, flags]
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: unhashable type: 'list'
+2025-01-15 11:51:24,104 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 11:51:24,303 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 11:51:24,304 - INFO - Processing file: example_survey2.pdf
+2025-01-15 11:51:24,304 - INFO - Extracting data from PDF: example_survey2.pdf
+2025-01-15 11:51:24,427 - INFO - Successfully extracted data from: example_survey2.pdf
+2025-01-15 11:51:24,427 - INFO - Processing file: example_image1.png
+2025-01-15 11:51:25,085 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 11:51:25,088 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19', 'building_photo', 'address', 'property_name', 'city', 'zip_code', 'total_building_sf', 'sf_available', 'monthly_asking_rent', 'monthly_operating_expenses', 'monthly_asking_gross', 'annual_asking_gross', 'asking_monthly_rent', 'asking_annual_rent', 'rent_type', 'parking_ratio', 'tia', 'total_parking_spaces', 'building_class', 'year_built', 'notes', 'source_page']
+2025-01-15 11:51:25,090 - INFO - Deduplicated data based on the 'address' column.
+2025-01-15 11:51:25,095 - INFO - Filled missing values with default data.
+2025-01-15 11:51:25,095 - INFO - Applying filters to the data...
+2025-01-15 11:51:25,101 - INFO - Filtered data contains 0 rows after applying filters.
+2025-01-15 11:51:25,158 - INFO - Excel file created: output\consolidated_properties_20250115_115124.xlsx
+2025-01-15 12:19:39,554 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 12:19:39,810 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 12:19:39,811 - INFO - Processing file: example_survey2.pdf
+2025-01-15 12:19:39,811 - INFO - Extracting data from PDF: example_survey2.pdf
+2025-01-15 12:19:39,964 - INFO - Successfully extracted data from: example_survey2.pdf
+2025-01-15 12:19:39,964 - INFO - Processing file: example_image1.png
+2025-01-15 12:19:40,749 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 12:19:40,751 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19', 'building_photo', 'address', 'property_name', 'city', 'zip_code', 'total_building_sf', 'sf_available', 'monthly_asking_rent', 'monthly_operating_expenses', 'monthly_asking_gross', 'annual_asking_gross', 'asking_monthly_rent', 'asking_annual_rent', 'rent_type', 'parking_ratio', 'tia', 'total_parking_spaces', 'building_class', 'year_built', 'notes', 'source_page']
+2025-01-15 12:19:40,752 - INFO - Deduplicated data based on the 'address' column.
+2025-01-15 12:19:40,755 - INFO - Filled missing values with default data.
+2025-01-15 12:19:40,755 - INFO - Applying filters to the data...
+2025-01-15 12:19:40,757 - INFO - Filtered data contains 0 rows after applying filters.
+2025-01-15 12:19:40,822 - INFO - Excel file created: output\consolidated_properties_20250115_121939.xlsx
+2025-01-15 12:21:37,571 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 12:21:37,736 - INFO - Successfully extracted data from: example_survey1.xlsx
+2025-01-15 12:21:37,737 - INFO - Processing file: example_survey2.pdf
+2025-01-15 12:21:37,737 - INFO - Extracting data from PDF: example_survey2.pdf
+2025-01-15 12:21:37,845 - INFO - Successfully extracted data from: example_survey2.pdf
+2025-01-15 12:21:37,846 - INFO - Processing file: example_image1.png
+2025-01-15 12:21:38,235 - WARNING - Skipped invalid or empty data from: example_image1.png
+2025-01-15 12:21:38,237 - INFO - Cleaned Column Names: ['unnamed:_0', 'unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4', 'unnamed:_5', 'unnamed:_6', 'unnamed:_7', 'unnamed:_8', 'unnamed:_9', 'unnamed:_10', 'unnamed:_11', 'unnamed:_12', 'unnamed:_13', 'unnamed:_14', 'unnamed:_15', 'unnamed:_16', 'unnamed:_17', 'unnamed:_18', 'unnamed:_19', 'building_photo', 'address', 'property_name', 'city', 'zip_code', 'total_building_sf', 'sf_available', 'monthly_asking_rent', 'monthly_operating_expenses', 'monthly_asking_gross', 'annual_asking_gross', 'asking_monthly_rent', 'asking_annual_rent', 'rent_type', 'parking_ratio', 'tia', 'total_parking_spaces', 'building_class', 'year_built', 'notes', 'source_page']
+2025-01-15 12:21:38,238 - INFO - Deduplicated data based on the 'address' column.
+2025-01-15 12:21:38,241 - INFO - Filled missing values with default data.
+2025-01-15 12:21:38,242 - INFO - Applying filters to the data...
+2025-01-15 12:21:38,243 - INFO - Filtered data contains 0 rows after applying filters.
+2025-01-15 12:21:38,275 - INFO - Excel file created: output\consolidated_properties_20250115_122137.xlsx
+2025-01-15 12:54:09,821 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 12:54:10,025 - INFO - Successfully extracted data from example_survey1.xlsx: 2 rows.
+2025-01-15 12:54:10,025 - INFO - Processing file: example_survey2.pdf
+2025-01-15 12:54:10,025 - INFO - Extracting data from PDF: example_survey2.pdf
+2025-01-15 12:54:10,160 - INFO - Successfully extracted data from example_survey2.pdf: 3 rows.
+2025-01-15 12:54:10,160 - INFO - Processing file: example_image1.png
+2025-01-15 12:54:10,997 - WARNING - No data extracted from: example_image1.png
+2025-01-15 12:54:11,000 - INFO - Total rows in combined DataFrame: 5
+2025-01-15 12:54:11,000 - INFO - Updated Column Names: ['column_0', 'column_1', 'column_2', 'column_3', 'column_4', 'column_5', 'column_6', 'column_7', 'column_8', 'column_9', 'column_10', 'column_11', 'column_12', 'column_13', 'column_14', 'column_15', 'column_16', 'column_17', 'column_18', 'column_19', 'building_photo', 'address', 'property_name', 'city', 'zip_code', 'total_building_sf', 'sf_available', 'monthly_asking_rent', 'monthly_operating_expenses', 'monthly_asking_gross', 'annual_asking_gross', 'asking_monthly_rent', 'asking_annual_rent', 'rent_type', 'parking_ratio', 'tia', 'total_parking_spaces', 'building_class', 'year_built', 'notes', 'source_page']
+2025-01-15 12:54:11,001 - INFO - Deduplicated data based on the 'address' column.
+2025-01-15 12:54:11,005 - INFO - Filled missing values with default data.
+2025-01-15 12:54:11,007 - INFO - Total rows after removing 'Unknown': 1
+2025-01-15 12:54:11,007 - INFO - Applying filters to the data...
+2025-01-15 12:54:11,008 - INFO - Filtered data contains 0 rows after applying filters.
+2025-01-15 12:54:11,063 - INFO - Excel file created: output\consolidated_properties_20250115_125409.xlsx
+2025-01-15 13:26:01,381 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 13:26:01,608 - INFO - Successfully extracted data from example_survey1.xlsx: 2 rows.
+2025-01-15 13:26:01,609 - INFO - Processing file: example_survey2.pdf
+2025-01-15 13:26:01,609 - INFO - Extracting data from PDF: example_survey2.pdf
+2025-01-15 13:26:01,736 - INFO - Successfully extracted data from example_survey2.pdf: 3 rows.
+2025-01-15 13:26:01,736 - INFO - Processing file: example_image1.png
+2025-01-15 13:26:02,457 - WARNING - No data extracted from: example_image1.png
+2025-01-15 13:26:02,460 - INFO - Total rows in combined DataFrame: 5
+2025-01-15 13:26:02,460 - INFO - Updated Column Names: ['column_0', 'column_1', 'column_2', 'column_3', 'column_4', 'column_5', 'column_6', 'column_7', 'column_8', 'column_9', 'column_10', 'column_11', 'column_12', 'column_13', 'column_14', 'column_15', 'column_16', 'column_17', 'column_18', 'column_19', 'building_photo', 'address', 'property_name', 'city', 'zip_code', 'total_building_sf', 'sf_available', 'monthly_asking_rent', 'monthly_operating_expenses', 'monthly_asking_gross', 'annual_asking_gross', 'asking_monthly_rent', 'asking_annual_rent', 'rent_type', 'parking_ratio', 'tia', 'total_parking_spaces', 'building_class', 'year_built', 'notes', 'source_page']
+2025-01-15 13:26:02,461 - INFO - Deduplicated data based on the 'address' column.
+2025-01-15 13:26:02,464 - INFO - Filled missing values with default data.
+2025-01-15 13:26:02,465 - INFO - Total rows after removing 'Unknown': 1
+2025-01-15 13:26:02,465 - INFO - Applying filters to the data...
+2025-01-15 13:26:02,466 - INFO - Filtered data contains 0 rows after applying filters.
+2025-01-15 13:26:02,558 - ERROR - Error exporting to Excel: name 'config' is not defined
+Traceback (most recent call last):
+  File "C:\Users\MargaretHawkins\Documents\cre_pipeline\app\data_export.py", line 30, in export_to_excel
+    "Value": [len(df), str(config.get("filters", {})), len(df[df["address"] == "Unknown"])]
+                           ^^^^^^
+NameError: name 'config' is not defined
+2025-01-15 13:26:02,560 - INFO - Excel file created: output\consolidated_properties_20250115_132601.xlsx
+2025-01-15 13:28:58,468 - INFO - Processing file: example_survey1.xlsx
+2025-01-15 13:28:58,631 - INFO - Successfully extracted data from example_survey1.xlsx: 2 rows.
+2025-01-15 13:28:58,631 - INFO - Processing file: example_survey2.pdf
+2025-01-15 13:28:58,631 - INFO - Extracting data from PDF: example_survey2.pdf
+2025-01-15 13:28:58,733 - INFO - Successfully extracted data from example_survey2.pdf: 3 rows.
+2025-01-15 13:28:58,734 - INFO - Processing file: example_image1.png
+2025-01-15 13:28:59,098 - WARNING - No data extracted from: example_image1.png
+2025-01-15 13:28:59,099 - INFO - Total rows in combined DataFrame: 5
+2025-01-15 13:28:59,100 - INFO - Updated Column Names: ['column_0', 'column_1', 'column_2', 'column_3', 'column_4', 'column_5', 'column_6', 'column_7', 'column_8', 'column_9', 'column_10', 'column_11', 'column_12', 'column_13', 'column_14', 'column_15', 'column_16', 'column_17', 'column_18', 'column_19', 'building_photo', 'address', 'property_name', 'city', 'zip_code', 'total_building_sf', 'sf_available', 'monthly_asking_rent', 'monthly_operating_expenses', 'monthly_asking_gross', 'annual_asking_gross', 'asking_monthly_rent', 'asking_annual_rent', 'rent_type', 'parking_ratio', 'tia', 'total_parking_spaces', 'building_class', 'year_built', 'notes', 'source_page']
+2025-01-15 13:28:59,101 - INFO - Deduplicated data based on the 'address' column.
+2025-01-15 13:28:59,104 - INFO - Filled missing values with default data.
+2025-01-15 13:28:59,105 - INFO - Total rows after removing 'Unknown': 1
+2025-01-15 13:28:59,105 - INFO - Applying filters to the data...
+2025-01-15 13:28:59,106 - INFO - Filtered data contains 0 rows after applying filters.
+2025-01-15 13:28:59,170 - ERROR - Error exporting to Excel: name 'config' is not defined
+Traceback (most recent call last):
+  File "C:\Users\MargaretHawkins\Documents\cre_pipeline\app\data_export.py", line 30, in export_to_excel
+    "Value": [len(df), str(config.get("filters", {})), len(df[df["address"] == "Unknown"])]
+                           ^^^^^^
+NameError: name 'config' is not defined
+2025-01-15 13:28:59,173 - INFO - Excel file created: output\consolidated_properties_20250115_132858.xlsx
+2025-01-15 13:28:59,176 - INFO - Scheduler is running. Press Ctrl+C to stop.
+2025-01-15 13:38:33,995 - INFO - Starting processing for file: example_survey1.xlsx
+2025-01-15 13:38:34,200 - INFO - Successfully extracted data from example_survey1.xlsx: 2 rows.
+2025-01-15 13:38:34,200 - INFO - Starting processing for file: example_survey2.pdf
+2025-01-15 13:38:34,201 - INFO - Extracting data from PDF: example_survey2.pdf
+2025-01-15 13:38:34,346 - INFO - Successfully extracted data from example_survey2.pdf: 3 rows.
+2025-01-15 13:38:34,347 - INFO - Starting processing for file: example_image1.png
+2025-01-15 13:38:35,049 - WARNING - No data extracted from: example_image1.png
+2025-01-15 13:38:35,051 - INFO - Total rows in combined DataFrame: 5
+2025-01-15 13:38:35,051 - INFO - Updated Column Names: ['column_0', 'column_1', 'column_2', 'column_3', 'column_4', 'column_5', 'column_6', 'column_7', 'column_8', 'column_9', 'column_10', 'column_11', 'column_12', 'column_13', 'column_14', 'column_15', 'column_16', 'column_17', 'column_18', 'column_19', 'building_photo', 'address', 'property_name', 'city', 'zip_code', 'total_building_sf', 'sf_available', 'monthly_asking_rent', 'monthly_operating_expenses', 'monthly_asking_gross', 'annual_asking_gross', 'asking_monthly_rent', 'asking_annual_rent', 'rent_type', 'parking_ratio', 'tia', 'total_parking_spaces', 'building_class', 'year_built', 'notes', 'source_page']
+2025-01-15 13:38:35,052 - INFO - Deduplicated data based on the 'address' column.
+2025-01-15 13:38:35,056 - INFO - Filled missing values with default data.
+2025-01-15 13:38:35,057 - INFO - Removed 1 rows with missing addresses.
+2025-01-15 13:38:35,058 - INFO - Removed 0 rows with missing cities.
+2025-01-15 13:38:35,059 - INFO - Applying filters to the data...
+2025-01-15 13:38:35,060 - INFO - Filtered data contains 0 rows after applying filters.
+2025-01-15 13:38:35,159 - ERROR - Error exporting to Excel: name 'config' is not defined
+Traceback (most recent call last):
+  File "C:\Users\MargaretHawkins\Documents\cre_pipeline\app\data_export.py", line 30, in export_to_excel
+    "Value": [len(df), str(config.get("filters", {})), len(df[df["address"] == "Unknown"])]
+                           ^^^^^^
+NameError: name 'config' is not defined
+2025-01-15 13:38:35,179 - INFO - Output file output\consolidated_properties_20250115_133833.xlsx created successfully.
+2025-01-15 13:44:25,663 - INFO - Starting processing for file: example_survey1.xlsx
+2025-01-15 13:44:25,846 - INFO - Successfully extracted data from example_survey1.xlsx: 2 rows.
+2025-01-15 13:44:25,846 - INFO - Starting processing for file: example_survey2.pdf
+2025-01-15 13:44:25,846 - INFO - Extracting data from PDF: example_survey2.pdf
+2025-01-15 13:44:25,967 - INFO - Successfully extracted data from example_survey2.pdf: 3 rows.
+2025-01-15 13:44:25,967 - INFO - Starting processing for file: example_image1.png
+2025-01-15 13:44:26,328 - WARNING - No data extracted from: example_image1.png
+2025-01-15 13:44:26,329 - INFO - Total rows in combined DataFrame: 5
+2025-01-15 13:44:26,330 - INFO - Updated Column Names: ['column_0', 'column_1', 'column_2', 'column_3', 'column_4', 'column_5', 'column_6', 'column_7', 'column_8', 'column_9', 'column_10', 'column_11', 'column_12', 'column_13', 'column_14', 'column_15', 'column_16', 'column_17', 'column_18', 'column_19', 'building_photo', 'address', 'property_name', 'city', 'zip_code', 'total_building_sf', 'sf_available', 'monthly_asking_rent', 'monthly_operating_expenses', 'monthly_asking_gross', 'annual_asking_gross', 'asking_monthly_rent', 'asking_annual_rent', 'rent_type', 'parking_ratio', 'tia', 'total_parking_spaces', 'building_class', 'year_built', 'notes', 'source_page']
+2025-01-15 13:44:26,331 - INFO - Deduplicated data based on the 'address' column.
+2025-01-15 13:44:26,334 - INFO - Filled missing values with default data.
+2025-01-15 13:44:26,334 - INFO - Removed 1 rows with missing addresses.
+2025-01-15 13:44:26,335 - INFO - Removed 0 rows with missing cities.
+2025-01-15 13:44:26,335 - INFO - Applying filters to the data...
+2025-01-15 13:44:26,336 - INFO - Filtered data contains 0 rows after applying filters.
+2025-01-15 13:44:26,382 - INFO - Excel file saved successfully: output\consolidated_properties_20250115_134425.xlsx
+2025-01-15 13:44:26,438 - INFO - Output file output\consolidated_properties_20250115_134425.xlsx created successfully.
+2025-01-15 13:47:25,538 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.124:5000
+2025-01-15 13:47:25,539 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 13:48:23,895 - INFO - 192.168.128.124 - - [15/Jan/2025 13:48:23] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-15 13:48:24,034 - INFO - 192.168.128.124 - - [15/Jan/2025 13:48:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-15 13:48:30,791 - INFO - 127.0.0.1 - - [15/Jan/2025 13:48:30] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-15 13:48:30,950 - INFO - 127.0.0.1 - - [15/Jan/2025 13:48:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-15 15:36:50,902 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.124:5000
+2025-01-15 15:36:50,903 - INFO - [33mPress CTRL+C to quit[0m
