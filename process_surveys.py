@@ -100,12 +100,17 @@ def process_surveys(file_paths, output_excel):
         logging.error("No valid data extracted from the provided files.")
         return
 
-    # Replace 'Unnamed' columns with generic names
-    df.columns = [
-        f"column_{i}" if str(col).strip().lower().startswith("unnamed") else str(col).strip().lower().replace(" ", "_")
-        for i, col in enumerate(df.columns)
-    ]
-    logging.info(f"Updated Column Names: {df.columns.tolist()}")
+    # Standardize column names
+    df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
+    logging.info(f"Standardized Column Names: {df.columns.tolist()}")
+
+    # Handle missing 'asking_monthly_rent' column
+    if "asking_monthly_rent" not in df.columns:
+        logging.warning("'asking_monthly_rent' column not found. Adding default values.")
+        df["asking_monthly_rent"] = 0  # Default value
+
+    # Sample data for debugging
+    logging.info(f"Sample data:\n{df.head()}")
 
     # Step 2: Deduplicate Data
     if 'address' in df.columns:
@@ -162,5 +167,6 @@ if __name__ == "__main__":
         )
     except Exception as e:
         logging.critical(f"Critical error occurred: {e}", exc_info=True)
+
 
 

@@ -21,17 +21,12 @@ os.makedirs(output_dir, exist_ok=True)
 
 @app.route("/process", methods=["POST"])
 def process():
-    """
-    API endpoint to process uploaded files.
-    Expects files to be sent as a POST request with the key 'files'.
-    """
     try:
-        # Log request for debugging
         logging.info("Received a request to /process")
-
+        
         # Retrieve files from the request
         files = request.files.getlist("files")
-        logging.info(f"Files in request: {[file.filename for file in files]}")
+        logging.info(f"Received files: {[file.filename for file in files]}")
 
         if not files or all(file.filename == '' for file in files):
             logging.warning("No files uploaded or filenames are empty.")
@@ -51,11 +46,21 @@ def process():
         if not file_paths:
             return jsonify({"status": "error", "message": "No valid files uploaded."}), 400
 
-        # Generate the output Excel file path
-        output_excel = os.path.join(output_dir, "consolidated_properties.xlsx")
-
         # Run the pipeline
+        output_excel = os.path.join(output_dir, "consolidated_properties.xlsx")
         process_surveys(file_paths, output_excel)
+
+        if os.path.exists(output_excel):
+            logging.info(f"Output file created: {output_excel}")
+            return jsonify({"status": "success", "output_file": output_excel}), 200
+        else:
+            logging.error("Output file not found after processing.")
+            return jsonify({"status": "error", "message": "Processing failed. No output file created."}), 500
+
+    except Exception as e:
+        logging.error(f"Error in processing: {e}", exc_info=True)
+        return jsonify({"status": "error", "message": str(e)}), 500
+
 
         # Return the result
         if os.path.exists(output_excel):
