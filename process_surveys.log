@@ -1970,3 +1970,32 @@ NameError: name 'config' is not defined
  * Running on http://127.0.0.1:5000
  * Running on http://192.168.128.124:5000
 2025-01-15 15:36:50,903 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 16:24:55,213 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.124:5000
+2025-01-15 16:24:55,214 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 16:32:29,998 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.124:5000
+2025-01-15 16:32:29,999 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 16:39:43,965 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.124:5000
+2025-01-15 16:39:43,965 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 16:39:51,749 - INFO - 127.0.0.1 - - [15/Jan/2025 16:39:51] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-15 16:39:52,608 - INFO - 192.168.128.124 - - [15/Jan/2025 16:39:52] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-15 16:44:35,481 - INFO - Received a request to /process
+2025-01-15 16:44:35,481 - INFO - Files in request: []
+2025-01-15 16:44:35,481 - WARNING - No files uploaded.
+2025-01-15 16:44:35,482 - INFO - 127.0.0.1 - - [15/Jan/2025 16:44:35] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+2025-01-15 16:46:18,412 - INFO - Received a request to /process
+2025-01-15 16:46:18,414 - INFO - Files in request: []
+2025-01-15 16:46:18,415 - WARNING - No files uploaded.
+2025-01-15 16:46:18,415 - INFO - 127.0.0.1 - - [15/Jan/2025 16:46:18] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+2025-01-15 16:51:12,988 - INFO - Received a request to /process
+2025-01-15 16:51:12,988 - INFO - Files in request: []
+2025-01-15 16:51:12,989 - WARNING - No files uploaded.
+2025-01-15 16:51:12,989 - INFO - 127.0.0.1 - - [15/Jan/2025 16:51:12] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
