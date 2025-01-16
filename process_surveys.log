@@ -1999,3 +1999,19 @@ NameError: name 'config' is not defined
 2025-01-15 16:51:12,988 - INFO - Files in request: []
 2025-01-15 16:51:12,989 - WARNING - No files uploaded.
 2025-01-15 16:51:12,989 - INFO - 127.0.0.1 - - [15/Jan/2025 16:51:12] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+2025-01-16 09:54:20,704 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.124:5000
+2025-01-16 09:54:20,705 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 09:54:35,092 - INFO - 192.168.128.124 - - [16/Jan/2025 09:54:35] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-16 09:54:35,236 - INFO - 192.168.128.124 - - [16/Jan/2025 09:54:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-16 09:54:36,546 - INFO - 127.0.0.1 - - [16/Jan/2025 09:54:36] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-16 09:54:36,669 - INFO - 127.0.0.1 - - [16/Jan/2025 09:54:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-16 09:55:10,649 - INFO - 127.0.0.1 - - [16/Jan/2025 09:55:10] "[31m[1mGET /process HTTP/1.1[0m" 405 -
+2025-01-16 09:55:10,733 - INFO - 127.0.0.1 - - [16/Jan/2025 09:55:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-16 10:01:47,571 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.124:5000
+2025-01-16 10:01:47,571 - INFO - [33mPress CTRL+C to quit[0m
