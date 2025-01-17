@@ -32,10 +32,17 @@ def process():
     Accepts files via POST request and returns an output file link.
     """
     try:
+        # Log the request headers for debugging
+        logging.info(f"Request Headers: {request.headers}")
+
         # Retrieve uploaded files
         files = request.files.getlist("files")
         if not files:
+            logging.error("No files were uploaded. Check if the 'files' field is missing or empty.")
             return jsonify({"status": "error", "message": "No files uploaded."}), 400
+
+        # Log received files
+        logging.info(f"Received Files: {[file.filename for file in files]}")
 
         # Save and process each file
         file_paths = []
@@ -100,4 +107,3 @@ logging.info("Files in current directory: " + str(os.listdir('.')))
 if __name__ == "__main__":
     logging.info("Running Flask app on http://127.0.0.1:5000...")
     app.run(host="0.0.0.0", port=5000, debug=True)
-
