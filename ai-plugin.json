@@ -1,0 +1,29 @@
+{
+    "schema_version": "v1",
+    "name_for_model": "cre_file_processor",
+    "name_for_human": "CRE File Processor",
+    "description_for_model": "Processes CRE files to generate Excel outputs.",
+    "description_for_human": "Upload CRE files and receive processed Excel files.",
+    "auth": {
+      "type": "none"
+    },
+    "api": {
+      "type": "openapi",
+      "url": "https://cre-pipeline-1.onrender.com"
+    },
+    "logo_url": "https://cre-pipeline-1.onrender.com",
+    "contact_email": "support@example.com",
+    "legal_info_url": "https://cre-pipeline-1.onrender.com"
+  }
+  @app.route("/ai-plugin.json", methods=["GET"])
+def serve_plugin_manifest():
+    """
+    Serve the ChatGPT plugin manifest file.
+    """
+    try:
+        path = os.getcwd()
+        logging.info(f"Serving ai-plugin.json from: {path}")
+        return send_from_directory(path, "ai-plugin.json", as_attachment=False)
+    except Exception as e:
+        logging.error(f"Error serving ai-plugin.json: {e}", exc_info=True)
+        return jsonify({"status": "error", "message": str(e)}), 500

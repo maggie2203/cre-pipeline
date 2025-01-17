@@ -1,0 +1,75 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+      "title": "CRE File Processor API",
+      "description": "Processes CRE files and generates Excel outputs.",
+      "version": "1.0.0"
+    },
+    "servers": [
+      {
+        "url": "https://cre-pipeline-1.onrender.com"
+      }
+    ],
+    "paths": {
+      "/process": {
+        "post": {
+          "summary": "Process CRE Files",
+          "operationId": "processFiles",
+          "requestBody": {
+            "content": {
+              "multipart/form-data": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "files": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "format": "binary"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "File processed successfully.",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                      "status": {
+                        "type": "string"
+                      },
+                      "message": {
+                        "type": "string"
+                      },
+                      "output_file": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  @app.route("/openapi.json", methods=["GET"])
+  def serve_openapi_spec():
+      """
+      Serve the OpenAPI specification file.
+      """
+      try:
+          path = os.getcwd()
+          logging.info(f"Serving openapi.json from: {path}")
+          return send_from_directory(path, "openapi.json", as_attachment=False)
+      except Exception as e:
+          logging.error(f"Error serving openapi.json: {e}", exc_info=True)
+          return jsonify({"status": "error", "message": str(e)}), 500  
