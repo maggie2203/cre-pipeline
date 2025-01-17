@@ -1,78 +1,103 @@
-
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 import os
 import logging
 from process_surveys import process_surveys
-
-app = Flask(__name__)
 
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
-    handlers=[logging.FileHandler("api_wrapper.log", mode="a"), logging.StreamHandler()]
+    handlers=[logging.FileHandler("api.log", mode="a"), logging.StreamHandler()]
 )
+logging.info("Starting the Flask application...")
 
-# Ensure temporary and output directories exist
-temp_dir = "temp_uploads"
+# Flask app instance
+app = Flask(__name__)
+
+# Ensure output directory exists
 output_dir = "output"
-os.makedirs(temp_dir, exist_ok=True)
 os.makedirs(output_dir, exist_ok=True)
+
+@app.route("/", methods=["GET"])
+def home():
+    """
+    Default route to confirm the app is running.
+    """
+    return jsonify({"message": "CRE Pipeline API is running"}), 200
 
 @app.route("/process", methods=["POST"])
 def process():
+    """
+    Endpoint to process uploaded files.
+    Accepts files via POST request and returns an output file link.
+    """
     try:
-        logging.info("Received a request to /process")
-        
-        # Retrieve files from the request
+        # Retrieve uploaded files
         files = request.files.getlist("files")
-        logging.info(f"Received files: {[file.filename for file in files]}")
-
-        if not files or all(file.filename == '' for file in files):
-            logging.warning("No files uploaded or filenames are empty.")
+        if not files:
             return jsonify({"status": "error", "message": "No files uploaded."}), 400
 
-        # Save files to a temporary directory
+        # Save and process each file
         file_paths = []
         for file in files:
-            if file and file.filename:  # Ensure file is valid
-                temp_path = os.path.join(temp_dir, file.filename)
-                file.save(temp_path)
-                file_paths.append(temp_path)
-                logging.info(f"Saved uploaded file to: {temp_path}")
-            else:
-                logging.warning(f"Skipped invalid or empty file: {file}")
+            file_path = os.path.join(output_dir, file.filename)
+            file.save(file_path)
+            file_paths.append(file_path)
 
-        if not file_paths:
-            return jsonify({"status": "error", "message": "No valid files uploaded."}), 400
-
-        # Run the pipeline
+        # Run processing logic and generate output file
         output_excel = os.path.join(output_dir, "consolidated_properties.xlsx")
         process_surveys(file_paths, output_excel)
 
-        if os.path.exists(output_excel):
-            logging.info(f"Output file created: {output_excel}")
-            return jsonify({"status": "success", "output_file": output_excel}), 200
-        else:
-            logging.error("Output file not found after processing.")
-            return jsonify({"status": "error", "message": "Processing failed. No output file created."}), 500
+        # Return success response with download link
+        return jsonify({
+            "status": "success",
+            "message": "Files processed successfully.",
+            "output_file": f"/download/consolidated_properties.xlsx"
+        }), 200
 
     except Exception as e:
-        logging.error(f"Error in processing: {e}", exc_info=True)
+        logging.error(f"Error in /process: {e}", exc_info=True)
         return jsonify({"status": "error", "message": str(e)}), 500
 
-
-        # Return the result
-        if os.path.exists(output_excel):
-            logging.info(f"Output file created: {output_excel}")
-            return jsonify({"status": "success", "output_file": output_excel}), 200
-        else:
-            logging.error("Output file not found after processing.")
-            return jsonify({"status": "error", "message": "Processing failed. No output file created."}), 500
-
+@app.route("/download/<filename>", methods=["GET"])
+def download(filename):
+    """
+    Endpoint to download a file from the output directory.
+    """
+    try:
+        return send_from_directory(output_dir, filename, as_attachment=True)
     except Exception as e:
-        logging.error(f"Error in processing: {e}", exc_info=True)
+        logging.error(f"Error in /download: {e}", exc_info=True)
         return jsonify({"status": "error", "message": str(e)}), 500
 
+@app.route("/ai-plugin.json", methods=["GET"])
+def serve_ai_plugin():
+    """
+    Serve the ChatGPT plugin manifest file.
+    """
+    try:
+        return send_from_directory('.', 'ai-plugin.json', as_attachment=False)
+    except Exception as e:
+        logging.error(f"Error serving ai-plugin.json: {e}", exc_info=True)
+        return jsonify({"status": "error", "message": str(e)}), 500
+
+@app.route("/openapi.json", methods=["GET"])
+def serve_openapi():
+    """
+    Serve the OpenAPI specification file.
+    """
+    try:
+        return send_from_directory('.', 'openapi.json', as_attachment=False)
+    except Exception as e:
+        logging.error(f"Error serving openapi.json: {e}", exc_info=True)
+        return jsonify({"status": "error", "message": str(e)}), 500
+
+# Debugging paths
+logging.info("Current working directory: " + os.getcwd())
+logging.info("Files in current directory: " + str(os.listdir('.')))
+
+# Main block to start the Flask server
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+    logging.info("Running Flask app on http://127.0.0.1:5000...")
+    app.run(host="0.0.0.0", port=5000, debug=True)
+
